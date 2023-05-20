@@ -1,6 +1,5 @@
-<p align="right">
-<a href="https://www.oreol.ch">Oreol</a>
-</p>
+
+
 
 <p align="center">
 <img src="https://github.com/oreol-ag/handbook/blob/main/Oreol.png" align="center" width="350">
