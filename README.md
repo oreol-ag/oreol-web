@@ -11,7 +11,7 @@
 </h1>
 
 ## Sections
-* [Employee Handbook](https://github.com/oreol-ag/employee-handbook)
+* [Employee Handbook](https://github.com/oreol-ag/employee-handbook#--employee-handbook)
 * [HYPERION](https://github.com/oreol-ag/hyperion#--heterogenius-computing)
 * [Product Histories]()
 * [Vocabulary](./vocabulary.md)
