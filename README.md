@@ -10,13 +10,8 @@
   Hetero<i>genius</i> computing
 </h1>
 
-Modern workload diversity shows that relying on a single computing architecture isn’t practical anymore. With **HYPERION,** CPUs, GPUs, and FPGAs work together to deliver the peak performance your applications demand.
-
 ## Sections
-* [FAQs](./faqs.md)
-* [Infrastructure]()
-* [Model composer platform]()
+* [Employee Handbook](https://github.com/oreol-ag/employee-handbook)
+* [HYPERION](https://github.com/oreol-ag/hyperion#--heterogenius-computing)
+* [Product Histories]()
 * [Vocabulary](./vocabulary.md)
-
-# License
-For open source projects, say how it is licensed.
