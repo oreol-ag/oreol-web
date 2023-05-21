@@ -11,7 +11,7 @@
 
 ## Sections
 * [Employee Handbook](https://github.com/oreol-ag/employee-handbook#--employee-handbook)
-* [Hyperion](https://github.com/oreol-ag/hyperion#--hyperion)
+* [Hyperion](https://github.com/oreol-ag/hyperion#sections)
 * [Product Histories](./product-histories.md)
 * [Vocabulary](./vocabulary.md)
 * [Working with ETH]()
