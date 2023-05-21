@@ -6,11 +6,16 @@
 
 # Product histories
 
-
-## A
+## DC ONE and GRAPIN AG: just the same shit
 Experiencia a la HSLU amb el desenvolupament de systemes de processament digital gastant system generator
 
-## B
+## IBM’s cloudFPGA
+
+## Systems Group and ETHZ-HACC
 Javier desenvolupa el HACC a la ETHZ i crea un CLI open-source.
 
 ## HYPERION
+HYPERION = HW + CLI + Model composer. Venta del HW i actualitzacions manuals
+
+## HYPERION+
+Managed cloud with Ansible. Donem support pagat per mes, i desenvolupament per hora (Basecamp + Everhour). 
