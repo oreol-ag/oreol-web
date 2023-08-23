@@ -6,9 +6,6 @@
 
 # Product histories
 
-## DC ONE and GRAPIN AG: just the same shit
-Experiencia a la HSLU amb el desenvolupament de systemes de processament digital gastant system generator
-
 ## IBM’s cloudFPGA
 
 ## Systems Group and ETHZ-HACC

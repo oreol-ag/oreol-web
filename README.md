@@ -1,6 +1,6 @@
 
 <p align="right">
-<a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Hyperion</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">HRT</a>
+<a href="https://github.com/oreol-ag/hyperion#sections">Hyperion</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">HRT</a>
 </p>
 
 <p align="center">
@@ -8,12 +8,14 @@
 </p>
 
 <h1 align="center">
-  Advanced computing technologies.
+  Advanced computing technologies
 </h1>
 
 ## Sections
 * [Employee Handbook](https://github.com/oreol-ag/employee-handbook#--employee-handbook)
-* [Hyperion](https://github.com/oreol-ag/hyperion#sections)
+  * What we do
+  * How we work
+  * Where we work
 * [Product Histories](./product-histories.md)
 * [Vocabulary](./vocabulary.md)
-* [Working with ETH]()
+* FAQs (de la empresa ==> com començe a gastar Hyperion // Consultoria)
