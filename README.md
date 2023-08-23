@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Hetero<i>genius</i> computing
+  Advanced computing technologies.
 </h1>
 
 ## Sections
