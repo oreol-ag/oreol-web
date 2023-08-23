@@ -1,8 +1,10 @@
 
-
+<p align="right">
+<a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Hyperion</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">HRT</a>
+</p>
 
 <p align="center">
-<img src="https://github.com/oreol-ag/handbook/blob/main/Oreol.png" align="center" width="350">
+<img src="https://github.com/oreol-ag/employee-handbook/blob/main/Oreol.png" align="center" width="350">
 </p>
 
 <h1 align="center">
