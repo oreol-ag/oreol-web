@@ -19,3 +19,7 @@
 * [Product Histories](./product-histories.md)
 * [Vocabulary](./vocabulary.md)
 * FAQs (de la empresa ==> com començe a gastar Hyperion // Consultoria)
+  * How can I start using Hyperion?
+  * How can I start using HRT?
+  * Is HRT free? Yes! We develope it together with the ETH Systems group (JDA) and is offered as open-source.
+  * Hyperion in the cloud? No! Hyperion is meant to be an on-site resource for edge-computing. However, we offer few instances in the cloud for users to test it.
