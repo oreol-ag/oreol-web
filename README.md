@@ -18,7 +18,9 @@
   * Where we work
 * [Product Histories](./product-histories.md)
 * [Vocabulary](./vocabulary.md)
-* FAQs (de la empresa ==> com començe a gastar Hyperion // Consultoria)
+* FAQs
+  * What is Hyperion?
+  * What is HRT?
   * How can I start using Hyperion?
   * How can I start using HRT?
   * Is HRT free? Yes! We develope it together with the ETH Systems group (JDA) and is offered as open-source.
