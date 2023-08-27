@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/oreol-ag/hyperion#sections">Hyperion</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">HRT</a>
+<a href="https://github.com/oreol-ag/hyperion-web#heterogenius-computing">Hyperion</a> <a href="https://github.com/oreol-ag/hrt#hyperion-runtime">HRT</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
   * Hyperion in the cloud? No! Hyperion is meant to be an on-site resource for edge-computing. However, we offer a few Hyperion instances on the cloud for users to test it.
   * How can I start using Hyperion? We offer a few Hyperion instances on the cloud for evaluation purposes. Sign in here and try it for free.
   * How can I buy Hyperion? To buy Hyperion instances, please fill up this form and our sales department will come back to you shortly.
-  * What is HRT? HRT is the RunTime an Hyperion instance uses to efficiently manage and interact with its acceleration devices. In addition, HRT helps Hyperion users to create new accelerated applications by exposing an API for elementary operations (like basic data transfer and scheduling). Please refer to the About HRT section to learn how to use it on other servers different to Hyperion.
+  * What is HRT? HRT is the RunTime an Hyperion instance uses to efficiently manage and interact with its acceleration devices. In addition, HRT helps Hyperion users to create new accelerated applications by exposing an API for elementary operations (like basic data transfer and scheduling). Please refer to the [About HRT](about-hrt.md) section to learn how to use it on other servers different to Hyperion.
   
 * Hyperion
   * What is Hyperion?
@@ -43,6 +43,6 @@
   * Infrastructure
   * Model composer platform ===> API
 
-<p align="right">
-<a href="https://github.com/oreol-ag/hyperion#sections">About HRT</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Other partners</a>
+<p align="left">
+<a href="https://github.com/oreol-ag/oreol-web/blob/main/about-hrt.md#about-hrt">About HRT</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Other partners</a>
 </p>
