@@ -26,7 +26,7 @@
   * How can I start using Hyperion? We offer a few Hyperion instances on the cloud for evaluation purposes. Sign in here and try it for free, forever!
   * How can I buy Hyperion? To buy Hyperion instances, please fill up this form and our sales department will come back to you shortly.
   * What is HRT?
-  * How can I start using HRT?
+  * How can I start using HRT? hola
   * Is HRT free? Yes! We develope it together with the ETH Systems group (JDA) and is offered as open-source.
   
 * Hyperion
