@@ -24,12 +24,12 @@
   * Positions
   * Holidays and overtime
 * FAQs
-  * What is Hyperion? Hyperion is an out-of-the-box heterogeneous acceleration platform, featuring energy-efficient servers, advanced acceleration devices like ACAPs, FPGAs, multi-core CPUs, and GPUs, along with a tailored RunTime and API for their management and programming. (REVIEWED)
-  * What is Hyperion designed for, and who is it intended for? Hyperion is created to simplify the process of developing complex acceleration applications, primarily catering to highly specialized acceleration engineers working at research institutions or universities. These engineers typically benefit from having dedicated hardware for development, testing, and staging purposes before transitioning to production. (REVIEWED)
-  * Is Hyperion hosted in the public cloud? No, Hyperion is designed to be an on-premises resource for edge computing. Nevertheless, we do offer a limited number of Hyperion instances in the public cloud for users to test it.
-  * How can I begin using Hyperion? You can get started by trying out a few Hyperion instances available on the cloud for free evaluation. Simply sign in here to give it a try.
-  * How can I purchase Hyperion? To get Hyperion instances, please complete this form, and our sales department will reach out to you shortly.
-  * What is HRT? HRT is the RunTime an Hyperion instance uses to efficiently manage and interact with its acceleration devices. In addition, HRT helps Hyperion users to create new accelerated applications by exposing an API for elementary operations (like basic data transfer and scheduling). Please refer to the [About HRT](about-hrt.md) section to learn how to use it on other servers different to Hyperion.
+  * What is Hyperion? Hyperion is an out-of-the-box heterogeneous acceleration platform, featuring energy-efficient servers, advanced acceleration devices such as ACAPs, FPGAs, multi-core CPUs, and GPUs, along with a tailored RunTime and API for their management and programming.
+  * What is Hyperion designed for, and who is it intended for? Hyperion is created to simplify the process of developing complex acceleration applications, primarily serving highly specialized acceleration engineers working at research institutions or universities. These engineers typically benefit from dedicated hardware for development, testing, and staging before transitioning to production.
+  * Is Hyperion hosted in the public cloud? No, Hyperion is designed to be an on-premises resource for edge computing. However, we do offer a limited number of Hyperion instances in the public cloud for users to test it.
+  * How can I begin using Hyperion? You can get started by trying out a few Hyperion instances available in the cloud for free evaluation. Simply sign in here to give it a try.
+  * How can I purchaise Hyperion? To obtain Hyperion instances, please complete this form, and our sales department will reach out to you shortly.
+  * What is HRT? HRT is the RunTime that a Hyperion instance uses to efficiently manage and interact with its acceleration devices. Additionally, HRT assists Hyperion users in creating new accelerated applications by providing an API for basic operations like data transfer and scheduling. Please refer to the [About HRT](https://github.com/oreol-ag/oreol-web/blob/main/about-hrt.md#about-hrt) section to learn how to use it on servers other than Hyperion.
   
 * Hyperion
   * What is Hyperion?
