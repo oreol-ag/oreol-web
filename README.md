@@ -13,9 +13,14 @@
 ## Sections
 * [Employee Handbook](https://github.com/oreol-ag/employee-handbook#--employee-handbook)
   * What we do ===> Hyperion HRT
+    * We are a leading company in advanced computing technologies, specializing in state-of-the-art acceleration systems based on heterogeneous computing, and best known for creating Hyperion, a computing platform that streamlines the development of complex acceleration applications using advanced servers, accelerators, and software.
   * What we stand for
   * [Vocabulary](./vocabulary.md)
+    * Heterogeneous computing is the practice of utilizing a combination of different computing devices, such as ACAPs, FPGAs, multi-core CPUs, and GPUs, concurrently to leverage the unique capabilities of each accelerator. This strategy results in improved overall performance and efficiency when compared to relying solely on a single type of device. Heterogeneous computing enables a system to efficiently manage a wide variety of applications and tailor performance optimization for each specific task. It is a growing trend, particularly in fields such as artificial intelligence, scientific computing, and high-performance computing.
+    
+
   * [Product Histories](./product-histories.md)
+  Before realising Hyperion, Oreol founders worked on the following related projects:  
     * cloudFPGA
     * HACC ===> parle de SGRT i API
     * HRT 
