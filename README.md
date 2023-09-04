@@ -15,16 +15,22 @@
   * What we do ===> Hyperion HRT
     * We are a leading company in advanced computing technologies, specializing in state-of-the-art acceleration systems based on heterogeneous computing, and best known for creating Hyperion—a computing platform that streamlines the development of complex acceleration applications using advanced servers, accelerators, and software.
   * What we stand for
-    * Walk the walk. Your actions matter, and you can inspire people. Your behavior sets the tone, influencing others to follow the values and principles you embody.
-        * Lead by example. Your actions carry weight, and they have the power to inspire others. Your conduct sets the standard, shaping the behavior of those around you to reflect the values and principles you embody.
-    * Be honest. Practicing honesty and open communication are crucial. Making your actions transparent enhances collaboration and enables timely problem-solving.
-        * Be honest. Honesty and open communication are indispensable. Transparency in your actions fosters collaboration and facilitates timely conflict resolution.
-    * We trust you. Follow your instincts: your intuition and judgment are valued assets that can lead to innovative solutions and confident decision-making.
-        * Have confidence. We have faith in your judgment. Trust your instincts; your intuition and decision-making abilities are valuable assets that can lead to innovative solutions.
-    * Quality over quantity. Prioritize creating fewer, exceptional things that resonate, rather than churning out a multitude of mediocrity.
-        * Prioritize quality. Choose quality over quantity. Focus on crafting fewer, outstanding creations that resonate, rather than churning out a multitude of average ones.
-    * You are an artist. Beauty is not confined to the realm of art alone; it transcends into our everyday tasks and work. Everything we do must not only function but also be beautiful.
-        * Embrace your inner artist. Beauty isn't confined solely to art; it permeates our everyday tasks and work. Everything we undertake should not only be functional but also exude beauty.
+    <!-- * Walk the walk. Your actions matter, and you can inspire people. Your behavior sets the tone, influencing others to follow the values and principles you embody.
+    * Lead by example. Your actions carry weight, and they have the power to inspire others. Your conduct sets the standard, shaping the behavior of those around you to reflect the values and principles you embody. -->
+    * Walk the walk. Your actions carry weight, and they have the power to inspire others. Your conduct sets the standard, shaping the behavior of those around you to reflect the values and principles you embody.
+    
+    <!-- * Be honest. Practicing honesty and open communication are crucial. Making your actions transparent enhances collaboration and enables timely problem-solving. -->
+    * Be honest. Honesty and open communication are indispensable. Transparency in your actions fosters collaboration and facilitates timely conflict resolution.
+    
+    <!-- * We trust you. Follow your instincts: your intuition and judgment are valued assets that can lead to innovative solutions and confident decision-making. -->
+    * Have confidence. We have faith in your judgment. Trust your instincts; your intuition and decision-making abilities are valuable assets that can lead to innovative solutions.
+    
+    <!-- * Quality over quantity. Prioritize creating fewer, exceptional things that resonate, rather than churning out a multitude of mediocrity. -->
+    * Prioritize quality. Choose quality over quantity. Focus on crafting fewer, outstanding creations that resonate, rather than churning out a multitude of average ones.
+    
+    <!-- * You are an artist. Beauty is not confined to the realm of art alone; it transcends into our everyday tasks and work. Everything we do must not only function but also be beautiful. -->
+    * Embrace your inner artist. Beauty isn't confined solely to art; it permeates our everyday tasks and work. Everything we undertake should not only be functional but also exude beauty.
+
   * [Vocabulary](./vocabulary.md)
     * Heterogeneous computing is the practice of utilizing a combination of different computing devices, such as ACAPs, FPGAs, multi-core CPUs, and GPUs, concurrently to leverage the unique capabilities of each accelerator. This strategy results in improved overall performance and efficiency when compared to relying solely on a single type of device. Heterogeneous computing enables a system to efficiently manage a wide variety of applications and tailor performance optimization for each specific task. It is a growing trend, particularly in fields such as artificial intelligence, scientific computing, and high-performance computing.
 
