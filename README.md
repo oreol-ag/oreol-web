@@ -15,7 +15,7 @@
 * [What we stand for](./what-we-stand-for.md)
 * [Vocabulary](./vocabulary.md)
 * [Product Histories](./product-histories.md)
-  Before realising Hyperion, Oreol founders worked on the following related projects:  
+  Before realising Hyperion, Oreol founders worked on the following related projects:  heterogeneou comp aci ===
     * cloudFPGA
     * HACC ===> parle de SGRT i API
     * HRT 
