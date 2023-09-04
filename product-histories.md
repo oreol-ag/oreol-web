@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
 <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
 <p align="right">
-<a href="https://github.com/oreol-ag/heterogenius-computing#--heterogenius-computing">Back to top</a>
+<a href="https://github.com/oreol-ag/oreol-web#--advanced-computing-technologies">Back to top</a>
 </p>
 
 # Product histories

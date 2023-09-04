@@ -10,16 +10,11 @@
   Advanced computing technologies
 </h1>
 
-## Sections
-* [Employee Handbook](https://github.com/oreol-ag/employee-handbook#--employee-handbook)
-  * [What we do](./what-we-do.md)
-  * [What we stand for](./what-we-stand-for.md)
-  * [Vocabulary](./vocabulary.md)
-    * Heterogeneous computing is the practice of utilizing a combination of different computing devices, such as ACAPs, FPGAs, multi-core CPUs, and GPUs, concurrently to leverage the unique capabilities of each accelerator. This strategy results in improved overall performance and efficiency when compared to relying solely on a single type of device. Heterogeneous computing enables a system to efficiently manage a wide variety of applications and tailor performance optimization for each specific task. It is a growing trend, particularly in fields such as artificial intelligence, scientific computing, and high-performance computing.
-
-    ======================== vocabulary de hacc??? ===================================================
-    
-  * [Product Histories](./product-histories.md)
+## Employee handbook
+* [What we do](./what-we-do.md)
+* [What we stand for](./what-we-stand-for.md)
+* [Vocabulary](./vocabulary.md)
+* [Product Histories](./product-histories.md)
   Before realising Hyperion, Oreol founders worked on the following related projects:  
     * cloudFPGA
     * HACC ===> parle de SGRT i API
