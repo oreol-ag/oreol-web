@@ -13,12 +13,11 @@
 ## Employee handbook
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
-* [Vocabulary](./vocabulary.md)
-* [Product Histories](./product-histories.md)
-  Before realising Hyperion, Oreol founders worked on the following related projects:  heterogeneou comp aci ===
+* [Product Histories](./product-histories.md)  
+  The following projects directly influenced the engineering of Hyperion:
     * cloudFPGA
-    * HACC ===> parle de SGRT i API
-    * HRT 
+    * HACC ===> parle de SGRT i API ==> Heterogeneous computing
+    * SGRT 
   * Where we work
   * How we work
   * Positions
@@ -26,6 +25,8 @@
       * Holidays and overtime
       * Gym
       * Worklidays
+* [Vocabulary](./vocabulary.md)
+
 * FAQs
   * What is Hyperion? Hyperion is an out-of-the-box heterogeneous acceleration platform, featuring energy-efficient servers, advanced acceleration devices such as ACAPs, FPGAs, multi-core CPUs, and GPUs, along with a tailored RunTime and API for their management and programming.
   * What is Hyperion designed for, and who is it intended for? Hyperion is created to simplify the process of developing complex acceleration applications, primarily serving highly specialized acceleration engineers working at research institutions or universities. These engineers typically benefit from dedicated hardware for development, testing, and staging before transitioning to production.
