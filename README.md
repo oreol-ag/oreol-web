@@ -18,8 +18,10 @@
 
 
   * How we work
-  * Positions
-  * [Salaries]()
+  * [Making a carreer](./making-a-career.md)
+  * [Salary](./salary.md)
+  
+  
   * Benefits
       * Holidays and overtime
       * Coworking space
