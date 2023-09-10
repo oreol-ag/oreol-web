@@ -6,13 +6,13 @@
 
 # Product histories
 
-## IBM’s cloudFPGA
+The following projects directly influenced the engineering of Hyperion:
 
-## Systems Group and ETHZ-HACC
-Javier desenvolupa el HACC a la ETHZ i crea un CLI open-source.
+## cloudFPGA
+As the CTO and Head of Product at DC-ONE AG (later known as GRAPIN AG), Javier held the responsibility of spearheading the development of a cutting-edge technology platform for heterogeneous computing. This platform was built upon IBM's Research Europe Zurich [DOME MicroDataCenter](https://www.zurich.ibm.com/microserver/) and [cloudFPGA](https://www.zurich.ibm.com/cci/cloudFPGA/) high-performance computing platforms. To get to know more, please follow [this link.](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
 
-## HYPERION
-HYPERION = HW + CLI + Model composer. Venta del HW i actualitzacions manuals
+## Heterogeneous Accelerated Compute Cluster
+In 2021, Javier joined Prof. Dr. Gustavo Alonso's research team at the Systems Group, ETH Zurich (ETHZ). During the first two years of our engagement at ETH, Javier took on the ambitious project of completely rebuilding the ETHZ Heterogeneous Accelerated Compute Cluster. This cluster was one of the five HACCs established as part of the AMD University Program, distributed across some of the world's most prestigious universities. For additional details, please visit GitHub’s [HACC](https://github.com/fpgasystems/hacc) repository.
 
-## HYPERION+
-Managed cloud with Ansible. Donem support pagat per mes, i desenvolupament per hora (Basecamp + Everhour). 
+## Systems Group RunTime
+With the HACC expanding in terms of both server count and the variety of accelerators, from FPGAs to ACAPs, FPGAs, multi-core GPUs, and GPUs, the management of this diverse range of devices and the deployment of accelerated applications became increasingly challenging. To address these challenges, Javier introduced the Systems Group RunTime, unified software suite including a CLI and API. For more comprehensive information, please visit GitHub’s [SGRT](https://github.com/fpgasystems/sgrt) repository.

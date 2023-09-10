@@ -14,10 +14,7 @@
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
 * [Product Histories](./product-histories.md)  
-  The following projects directly influenced the engineering of Hyperion:
-    * cloudFPGA
-    * HACC ===> parle de SGRT i API ==> Heterogeneous computing
-    * SGRT 
+  
   * Where we work
   * How we work
   * Positions
