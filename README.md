@@ -38,12 +38,12 @@
   * How can I purchase Hyperion? To obtain Hyperion instances, please complete this form, and our sales department will reach out to you shortly.
   * How are my Hyperion instances maintained? Hyperion is a managed platform, allowing Oreol to provide remote support for keeping your Hyperion instances healthy and your acceleration devices up to date.
   * What is HRT? HRT is the RunTime that a Hyperion instance uses to efficiently manage and interact with its acceleration devices. Additionally, HRT assists Hyperion users in creating new accelerated applications by providing an API for basic operations like data transfer and scheduling. Please refer to the [About HRT](https://github.com/oreol-ag/oreol-web/blob/main/about-hrt.md#about-hrt) section to learn how to use it on servers other than Hyperion.
-  * Does Oreol offer consulting for developing my accelerated applications? No, Oreol focuses on configuring your Hyperion instances to meet your application's specific needs, rather than assisting with application development.
+  * Does Oreol offer consulting services for developing my accelerated applications? No, Oreol focuses in designing, configuring, and maintaining your Hyperion cluster to meet your application's specific requirements, rather than providing assistance with application development.
 
 
-  ====> Oreol dissenya el cluster y el manté....
+  ====> Oreol dissenya el cluster y el manté.... fet
 
-  ====> HRT pot ser un producte... el mantenim remotament per a qualsevol cluster compatible???
+  ====> HRT pot ser un producte... el mantenim remotament per a qualsevol cluster compatible??? =====> NO
   
 * Hyperion (aci faig els dibuixos del que dic dalt)
   * What is Hyperion?
