@@ -14,12 +14,16 @@
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
 * [Product Histories](./product-histories.md)  
-  
-  * Where we work
+* [Where we work](./where-we-work.md)
+
+
   * How we work
   * Positions
+  * [Salaries]()
   * Benefits
       * Holidays and overtime
+      * Coworking space
+      * Revolut cards
       * Gym
       * Worklidays
 * [Vocabulary](./vocabulary.md)
