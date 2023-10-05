@@ -85,8 +85,37 @@ Within every job function, we've defined a mastery path with five levels, rangin
 * WEB: Fully capable of writing their own HTML/CSS/JS + the ability to make significant progress in Rails. Can spin up new Rails apps from scratch, and make initial progress without outside help.
 * MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations. Can work in native environments and put together their own app from scratch.
 
-
 ## Titles for Ops
+
+### Junior Site Reliability Engineer
+* Requires discussions about tasks and how to complete them before initiating work.
+* Possesses basic familiarity with networking, configuration management, containers, orchestration, and other major systems, along with awareness of common processes and procedures.
+* Primarily handles low-risk, isolated system maintenance tasks and plays a passive role in emergency problem resolution.
+* Typically has 1-2 years of experience, seeks guidance from more senior team members, and actively asks questions to enhance knowledge and skills.
+
+### Site Reliability Engineer
+* Work is reviewed occasionally with the need for material direction or implementation changes.
+* Focuses on resolving single-system or variable problems.
+* Capable of handling on-call responsibilities with the support of a more senior team member.
+* Can perform work on production systems following existing procedures, showing expertise in specific areas but lacking experience in others. Typically has at least 5 years of experience as a sysadmin or programmer with site reliability experience.
+
+### Senior Site Reliability Engineer
+* Work generally doesn't require regular review, but the general approach may be considered.
+* Demonstrates independence by contributing to smaller projects and making reliable contributions to larger ones.
+* Actively participates in the on-call rotation, ensuring system reliability.
+* Typically has 6-10 years of experience as a professional sysadmin or network engineer.
+
+### Lead Site Reliability Engineer
+* Leads teams when necessary and operates autonomously, demonstrating extensive system expertise.
+* Serves as a subject matter expert on multiple systems, contributing to strategic decisions and setting new professional standards.
+* Elevates standards through the introduction of new tools, processes, procedures, and effective communication, including research, testing, implementation, and system improvement.
+* Typically has 8-12 years of experience as a professional sysadmin, consistently demonstrating technical maturity and leadership qualities under pressure.
+
+### Principal Site Reliability Engineer
+* Independently manages large and complex Ops projects, carrying significant responsibility across various infrastructure domains.
+* Demonstrates extensive expertise across multiple areas, including configuration management, containers, continuous integration/development, debugging, orchestration, optimization, networking, performance, reliability, and security.
+* Drives innovation and progress within the organization by implementing new systems, designs, and procedures, regularly pushing the entire organization forward.
+* Typically has 12-15 years of experience as a professional sysadmin, excelling in error-free work, leadership, coordination, and crisis resolution across teams and domains.
 
 ## Titles for Support
 
