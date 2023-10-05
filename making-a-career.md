@@ -10,7 +10,7 @@
 
 <!-- In each of our job functions, we've established a mastery trajectory consisting of five levels, spanning from junior to lead positions. While the title structure is consistent across all departments, the specific criteria that differentiate one level from another naturally vary. --> 
 
-Within every job function, we've defined a mastery path with five levels, ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from another are different.
+Within every job function, we've defined a mastery path with five levels, ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from one to another are different.
 
 ## Titles for Programmers
 
