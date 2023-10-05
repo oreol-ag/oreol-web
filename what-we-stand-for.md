@@ -6,6 +6,8 @@
 
 # What we stand for
 
+These shared values are the foundation for unity and alignment in our company.
+
 ## Walk the walk
 Your actions carry weight, and they have the power to inspire others. Your conduct sets the standard, shaping the behavior of those around you to reflect the values and principles you embody.
     
