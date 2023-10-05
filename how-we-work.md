@@ -4,7 +4,7 @@
 <a href="https://github.com/oreol-ag/oreol-web#--advanced-computing-technologies">Back to top</a>
 </p>
 
-# How We Work
+# How we work
 We work [on Basecamp,](#on-basecamp) [in small teams,](#in-small-teams) [shaping up every six weeks,](#shaping-up-every-six-weeks) and [practicing clear communication.](#practicing-clear-communication)
 
 ## On Basecamp
