@@ -119,31 +119,31 @@ Within every job function, we've defined a mastery path with five levels, rangin
 
 ## Titles for Support
 
-### Junior Support
+### Junior Customer Support Representative
 * Works under regular review, providing support assistance and learning the ropes.
 * Assists with basic support tasks and inquiries, following established procedures.
 * Collaborates with the support team, gaining experience in the support domain.
 * Typically has less than 2 years of professional support experience.
 
-### Support 
+### Customer Support Representative 
 * Provides support independently while seeking guidance when necessary.
 * Manages various support tasks and inquiries, following established support procedures.
 * Collaborates effectively within the support team, occasionally mentoring junior support members.
 * Typically has 2-5 years of professional support experience.
 
-### Senior Support
+### Senior Customer Support Representative
 * Provides advanced support independently, often as a subject matter expert.
 * Addresses complex support issues and inquiries, contributing to solutions and process improvements.
 * Assists in setting and upholding professional standards within the support organization.
 * Typically has 5-8 years of professional support experience, guiding and mentoring support teams for substantial projects.
 
-### Lead Support
+### Lead Customer Support Representative
 * Operates autonomously, overseeing daily support department operations.
 * Manages complex support challenges and escalations, ensuring smooth service delivery.
 * Sets and maintains high professional standards within the support organization.
 * Typically has 8-12 years of professional support experience, capable of leading and directing support teams for significant projects.
 
-### Principal Support
+### Principal Customer Support Representative
 * Leads and directs the entire support department, defining its strategic direction.
 * Innovates support solutions and processes, elevating service quality.
 * Recognized as an industry expert in support, contributing significantly to the field.
