@@ -41,7 +41,7 @@ In our programming teams, we have two types of programmers: "Cloud" and "Hardwar
 * Demonstrates deep expertise in multiple programming environments, capable of directing small teams for significant cross-domain projects, often with 8-12 years of professional programming experience in the specific domain.
 
 ### Principal Programmer
-* Sets and directs entire departments, such as Core Product or Research.
+* Sets and directs entire bigger projects and teams.
 * Fully capable of designing, owning, and running entirely new, innovative systems from scratch.
 * Proficient in leading and directing larger teams for extensive, long-term projects.
 * Widely recognized in the industry for significant contributions to the state of the art, often inventing new concepts and regularly propelling the entire organization forward, typically with 12-15+ years of professional programming experience in the specific domain.
