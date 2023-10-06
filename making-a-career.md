@@ -125,6 +125,8 @@ A Reliability Engineer ensures system performance and reliability while driving 
 
 ## Titles for Support
 
+Support employees assist customers, manage inquiries, and maintain service quality. With experience, they mentor and innovate, leading impactful initiatives.
+
 ### Junior Customer Support Representative
 * Works under regular review, providing support assistance and learning the ropes.
 * Assists with basic support tasks and inquiries, following established procedures.
