@@ -6,7 +6,7 @@
 
 # Hyperion
 
-The following are frequently asked questions about Hyperion. To get to know more about it, please follow [this link](www.oreol.ch/hyperion).
+The following are frequently asked questions about Hyperion. To get to know more about it, please follow [this link](https://github.com/oreol-ag/hyperion-web).
 
 ## What is Hyperion?
 What is Hyperion? Hyperion is a ready-to-use acceleration platform combining energy-efficient servers with advanced acceleration devices such as ACAPs, FPGAs, multi-core CPUs, and GPUs. It also includes a customized command-line interpreter (CLI) and an API, bundled as Hyperion RunTime (HRT), for seamless management and programming of these devices.
