@@ -12,7 +12,7 @@
 
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
-* [Product histories](./product-histories.md)  
+* [Building Hyperion](./building-hyperion.md)  
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
 * [Making a carreer](./making-a-career.md)

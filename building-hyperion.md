@@ -4,9 +4,9 @@
 <a href="https://github.com/oreol-ag/oreol-web#--advanced-computing-technologies">Back to top</a>
 </p>
 
-# Product histories
+# Building Hyperion
 
-The following projects directly influenced the engineering of Hyperion:
+These projects have had an impact on the engineering of Hyperion.
 
 ## cloudFPGA
 As the CTO and Head of Product at DC-ONE AG (later known as GRAPIN AG), Javier held the responsibility of spearheading the development of a cutting-edge technology platform for heterogeneous computing. This platform was built upon IBM's Research Europe Zurich [DOME MicroDataCenter](https://www.zurich.ibm.com/microserver/) and [cloudFPGA](https://www.zurich.ibm.com/cci/cloudFPGA/) high-performance computing platforms. To get to know more, please follow [this link.](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
