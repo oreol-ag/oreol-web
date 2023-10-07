@@ -18,16 +18,7 @@
 * [How we work](./how-we-work.md)
 * [Making a carreer](./making-a-career.md)
 * [Employment and salary](./employment-and-salary.md)
-  
-  
-  * Benefits
-      * Holidays
-      * Time tracking
-      * Continuous education
-      * Coworking space ==== no
-      * Revolut (for paychecks)
-      * Gym
-      * Worklidays ==== no
+* [Benefits](./benefits.md)
 * [Vocabulary](./vocabulary.md)
 
 * FAQs
