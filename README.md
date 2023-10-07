@@ -33,5 +33,5 @@
   * Model composer platform ===> API
 
 <p align="left">
-<a href="https://github.com/oreol-ag/oreol-web/blob/main/about-hrt.md#about-hrt">About HRT</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Jobs</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Partners</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Research</a>
+<a href="https://github.com/oreol-ag/oreol-web/blob/main/employee-handbook.md">Employee handbook</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Jobs</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Partners</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Research</a>
 </p> 
