@@ -10,7 +10,10 @@
   Advanced computing technologies
 </h1>
 
-## Employee handbook
+<p align="left">
+<a href="https://github.com/oreol-ag/oreol-web/blob/main/hyperion.md">Hyperion</a>
+</p>
+
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
 * [Product Histories](./product-histories.md)  
