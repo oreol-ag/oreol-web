@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/oreol-ag/hyperion-web#heterogenius-computing">Hyperion</a> <a href="https://github.com/oreol-ag/hrt#hyperion-runtime">HRT</a>
+<a href="https://github.com/oreol-ag/oreol-web/blob/main/hyperion.md">Hyperion</a>
 </p>
 
 <p align="center">
@@ -10,13 +10,9 @@
   Advanced computing technologies
 </h1>
 
-<p align="left">
-<a href="https://github.com/oreol-ag/oreol-web/blob/main/hyperion.md">Hyperion</a>
-</p>
-
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
-* [Product Histories](./product-histories.md)  
+* [Product histories](./product-histories.md)  
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
 * [Making a carreer](./making-a-career.md)
