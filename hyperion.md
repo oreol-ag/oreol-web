@@ -26,7 +26,7 @@ To obtain Hyperion instances, please complete this form, and our sales departmen
 ## How are my Hyperion instances maintained? 
 Hyperion is a managed platform, allowing us to provide remote maintenance for your Hyperion servers. We ensure the health and keep them up-to-date, including the operating system, acceleration development tools, and the devices themselves.
 
-## How to build accelerated applications on Hyperion? 
+## How do I  build accelerated applications on Hyperion? 
 Hyperion includes Hyperion RunTime (HRT), featuring a CLI and an API. The command-line interpreter assists in building customized accelerated applications—tailored to your Hyperion instance's underlying hardware—and sets up the infrastructure accordingly. Additionally, the API streamlines development, allowing seamless utilization of all exposed devices (ACAPs, FPGAs, multi-core CPUs, and GPUs) in your source code.
 
 <!-- ## What is HRT? 
