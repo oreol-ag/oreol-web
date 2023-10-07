@@ -19,18 +19,6 @@
 * [Employment and salary](./employment-and-salary.md)
 * [Benefits](./benefits.md)
 * [Vocabulary](./vocabulary.md)
-  
-* Hyperion (aci faig els dibuixos del que dic dalt)
-  * What is Hyperion?
-  * What is HRT?
-  * FAQs
-    * What type of accelerator is a multi-core CPU?
-    * What type of accelerator is a GPU?
-    * What type of accelerator is a FPGA?
-    * What type of accelerator is an ACAP?
-    * [...]
-  * Infrastructure
-  * Model composer platform ===> API
 
 <p align="left">
 <a href="https://github.com/oreol-ag/oreol-web/blob/main/employee-handbook.md">Employee handbook</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Jobs</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Partners</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Research</a>
