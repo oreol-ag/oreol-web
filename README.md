@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/oreol-ag/oreol-web/blob/main/hyperion.md">Hyperion</a>
+<a href="https://github.com/oreol-ag/hyperion-web">Hyperion</a>
 </p>
 
 <p align="center">
