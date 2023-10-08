@@ -6,7 +6,6 @@
 
 # Employment and salary
 
-## Employment
 Oreol provides its employees with stimulating work and an excellent work-life balance, expecting them in return to deliver outstanding performance.
 
 ## Salary
