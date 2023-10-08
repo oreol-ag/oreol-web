@@ -12,7 +12,6 @@
 
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
-* [Building Hyperion](./building-hyperion.md)  
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
 * [Making a carreer](./making-a-career.md)
@@ -21,5 +20,5 @@
 * [Vocabulary](./vocabulary.md)
 
 <p align="left">
-<a href="https://github.com/oreol-ag/oreol-web/blob/main/employee-handbook.md">Employee handbook</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Jobs</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Partners</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Research</a>
+<a href="https://github.com/oreol-ag/oreol-web/blob/main/employee-handbook.md">Employee handbook</a> <a href="https://github.com/oreol-ag/oreol-web/blob/main/employee-handbook.md">Product histories</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Jobs</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Partners</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">Research</a>
 </p> 
