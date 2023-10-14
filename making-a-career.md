@@ -6,10 +6,6 @@
 
 # Making a career
 
-<!-- https://basecamp.com/handbook/11-making-a-career -->
-
-<!-- In each of our job functions, we've established a mastery trajectory consisting of five levels, spanning from junior to lead positions. While the title structure is consistent across all departments, the specific criteria that differentiate one level from another naturally vary. --> 
-
 Within every job function, we've defined a mastery path with five levels, ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from one to another are different.
 
 ## Titles for Programmers
@@ -55,39 +51,29 @@ A Designer is responsible for creating and refining visual elements and layouts 
 * Focuses on tightly scoped, routine design tasks alongside another designer.
 * Adheres to existing design patterns and maintains consistency with our established look and feel.
 * Typically has less than 2 years of professional design experience.
-<!-- * WEB: Can write basic HTML/CSS with guidance. (SOFTWARE)
-* MOBILE: Can create prototypes w/ static screens. (HARDWARE) -->
 
 ### Designer
 * Work is reviewed with occasional guidance, allowing for material direction or implementation changes.
 * Focuses on tightly scoped features, individual screens, or small design tasks alongside another designer.
 * Typically has 2-5 years of professional design experience, contributing to the team's creative efforts.
-<!-- * WEB: Fully capable of writing modern HTML/CSS.
-* MOBILE: Can create basic prototypes demonstrating interactions and animations. -->
 
 ### Senior Designer
 * Work may not require regular review, although the general approach may be assessed.
 * Capable of independently managing small batch projects, overseeing them from concept to completion as the sole designer (collaborating with a programmer).
 * Occasionally leads larger batch projects, sometimes with assistance.
 * Typically has 5-8 years of professional design experience, demonstrating expertise in the field.
-<!-- * WEB: Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations. -->
 
 ### Lead Designer
 * Works autonomously, rarely requiring regular review, and leads by example in design expertise.
 * Proficient in managing large batch projects independently, overseeing them from concept to completion as the sole designer (collaborating with a programmer).
 * Leads a small department or drives longer-term initiatives within the organization.
 * Typically has 8-12 years of professional design experience, showcasing expertise in design leadership and industry recognition.
-<!-- * WEB: Fully capable of writing modern HTML/CSS/JS + the ability to make moderate progress in Rails.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations. -->
 
 ### Principal Designer
 * Leads our most complex, critical, big batch projects from concept to completion as the sole designer (collaborating with one or more programmers).
 * Drives major product redesigns, evolving products from one version to the next.
 * Innovates by conceiving and prototyping new products from scratch.
 * Actively contributes to the design community by publishing insights, introducing novel techniques, and comfortably engaging in discussions about complex application logic with programmers. Typically has 12-15+ years of professional design experience, demonstrating leadership and pioneering contributions to the industry.
-<!-- * WEB: Fully capable of writing their own HTML/CSS/JS + the ability to make significant progress in Rails. Can spin up new Rails apps from scratch, and make initial progress without outside help.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations. Can work in native environments and put together their own app from scratch. -->
 
 ## Titles for Ops
 
