@@ -1,6 +1,6 @@
-# Making a career
+# Mastery Path
 
-Within every job function, we've defined a mastery path with five levels, ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from one to another are different.
+Within every job function, we've defined a **Mastery Path with five categories,** ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from one to another are different.
 
 ## Titles for Programmers
 
