@@ -4,9 +4,7 @@
 <a href="https://github.com/oreol-ag/oreol-web#--advanced-computing-technologies">Back to top</a>
 </p>
 
-# Making a career
-
-Within every job function, we've defined a mastery path with five levels, ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from one to another are different.
+# Mastery Path
 
 ## Titles for Programmers
 
