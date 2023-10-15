@@ -13,7 +13,7 @@
 * [What we do](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
 
-* [Employment and categories](./employment-and-mastery-path.md)
+* [Employment and categories](./employment-and-categories.md)
 
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
