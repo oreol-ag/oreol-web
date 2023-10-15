@@ -10,9 +10,7 @@
   Advanced computing technologies
 </h1>
 
-* [What we do](./what-we-do.md)
-* [What we stand for](./what-we-stand-for.md)
-
+* [What we do and stand for](./what-we-do-and-stand-for.md)
 * [Employment and categories](./employment-and-categories.md)
 
 * [Where we work](./where-we-work.md)
