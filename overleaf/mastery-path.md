@@ -1,7 +1,5 @@
 # Mastery Path
 
-Within every job function, we've defined a **Mastery Path with five categories,** ranging from junior to lead roles. Although the titles remain uniform across all departments, the precise criteria distinguishing each level from one to another are different.
-
 ## Titles for Programmers
 
 In our programming teams, we have two types of programmers: "Cloud" and "Hardware." Cloud programmers work with languages suitable for cloud computing, like Python, Go, and Java, while Hardware programmers focus on acceleration technologies and hardware description languges for FPGAs and GPUs. In general, they are all responsible for developing and optimizing code, adhering to established coding patterns and practices.
