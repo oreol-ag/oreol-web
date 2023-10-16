@@ -25,7 +25,7 @@ Our comprehensive benefits package is designed to support your physical and fina
 * **Summer hours:** Every year from May 1 through August 31, we implement a 4-day work week. To be eligible, new employees may need to complete a training program as advised by their team lead. If a holiday falls during summer hours, you can choose to take the holiday off or your regular summer day off. Any additional days off beyond this would be considered vacation days.
 
 ### Employee profit sharing
-Oreol shares 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, typically around March (e.g., 2023 profits distributed in March 2024). You’re eligible to participate in profit sharing after two years of working at Oreol.
+Oreol shares 10\% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, typically around March (e.g., 2023 profits distributed in March 2024). You’re eligible to participate in profit sharing after two years of working at Oreol.
 
 ### Continuous education
 We believe in the importance of continuous learning and skill enhancement. To support our employees' professional growth, we offer funding opportunities for courses and training programs aimed at improving their skills and expertise.
