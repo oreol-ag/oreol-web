@@ -12,14 +12,13 @@ Hyperion
 * [What we do ](./what-we-do.md)
 * [What we stand for](./what-we-stand-for.md)
 * [Employment and categories](./employment-and-categories.md)
+* Code of conduct
+* [Compensation and benefits](./compensation-and-benefits.md)
 
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
 
-* [Employment and salary](./employment-and-salary.md)
-* [Benefits](./benefits.md)
 * [Vocabulary](./vocabulary.md)
 
 
-Employee handbook Product histories Mastery Path  Jobs Partners Research
- 
+Employee handbook Product histories Vocabulary Mastery Path Jobs Partners Research
