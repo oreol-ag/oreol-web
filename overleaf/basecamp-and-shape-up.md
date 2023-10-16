@@ -1,1 +1,0 @@
-As described in **How we work,** many of our practices are heavily influenced by Basecamp—the tool we use for project management and company communications—and the work methodology they enforce, known as Shape Up. For more information, you can explore their free book on [https://basecamp.com/shapeup.](basecamp.com/shapeup)
