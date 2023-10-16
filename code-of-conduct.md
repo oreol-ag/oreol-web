@@ -11,7 +11,7 @@ At Oreol, we are committed to fostering a **healthy and inclusive work environme
 * Embracing constructive criticism and direct feedback, and providing it with a spirit of improvement.
 * Operating with a default of trust and positivity, assuming good intentions in work relationships.
 
-On the other hand, the following is considered as **unacceptable behavior:**
+On the other hand, the following behaviors are considered **unacceptable:**
 
 * The use of any language or imagery that is sexualized or violent in nature.
 * Making unwelcome sexual advances or providing unwanted sexual attention.
