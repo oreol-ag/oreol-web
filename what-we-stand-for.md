@@ -6,19 +6,14 @@
 
 # What we stand for
 
-These shared values are the foundation for unity and alignment in our company.
+These **shared values** are the foundation for unity and alignment in our company.
 
-## Walk the walk
-Your actions carry weight, and they have the power to inspire others. Your conduct sets the standard, shaping the behavior of those around you to reflect the values and principles you embody.
+* **Walk the walk:** Your actions carry weight, and they have the power to inspire others. Your conduct sets the standard, shaping the behavior of those around you to reflect the values and principles you embody.
     
-## Be honest
-Honesty and open communication are indispensable. Transparency in your actions fosters collaboration and facilitates timely conflict resolution.
+* **Be honest:** Honesty and open communication are indispensable. Transparency in your actions fosters collaboration and facilitates timely conflict resolution.
 
-## Have confidence
-We have faith in your judgment. Trust your instincts; your intuition and decision-making abilities are valuable assets that can lead to innovative solutions.
+* **Have confidence:** We have faith in your judgment. Trust your instincts; your intuition and decision-making abilities are valuable assets that can lead to innovative solutions.
     
-## Prioritize quality 
-Choose quality over quantity. Focus on crafting fewer, outstanding creations that resonate, rather than churning out a multitude of average ones.
+* **Prioritize quality:** Choose quality over quantity. Focus on crafting fewer, outstanding creations that resonate, rather than churning out a multitude of average ones.
 
-## Embrace your inner artist
-Beauty isn't confined solely to art; it permeates our everyday tasks and work. Everything we undertake should not only be functional but also exude beauty.
+* **Embrace your inner artist:** Beauty isn't confined solely to art; it permeates our everyday tasks and work. Everything we undertake should not only be functional but also exude beauty.
