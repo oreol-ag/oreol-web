@@ -4,15 +4,15 @@
 <a href="https://github.com/oreol-ag/oreol-web#--advanced-computing-technologies">Back to top</a>
 </p>
 
-At Oreol, we are committed to fostering a **healthy and inclusive work environment.** To achieve this, we've established a set of guidelines for employee behavior.
+At Oreol, we are committed to fostering a **healthy and inclusive work environment.** To achieve this, we've established a set of guidelines for employee behavior. We will recognize as **positive behavior:**
 
-**Positive Behavior:**
 * Using respectful and courteous language when communicating.
 * Demonstrating empathy, especially when addressing diverse viewpoints and experiences.
 * Embracing constructive criticism and direct feedback, and providing it with a spirit of improvement.
 * Operating with a default of trust and positivity, assuming good intentions in work relationships.
 
-**Unacceptable Behavior:**
+On the other hand, the following is considered as **unacceptable behavior:**
+
 * The use of any language or imagery that is sexualized or violent in nature.
 * Making unwelcome sexual advances or providing unwanted sexual attention.
 * Engaging in any form of discrimination or harassment, especially on the basis of protected characteristics such as race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law.
