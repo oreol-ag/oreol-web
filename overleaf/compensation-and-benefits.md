@@ -25,7 +25,9 @@ Oreol shares 10\% of its annual company profits with employees, which is distrib
 We believe in the importance of continuous learning and skill enhancement. To support our employees' professional growth, we offer funding opportunities for courses and training programs aimed at improving their skills and expertise.
 
 ### Personal accounts
-As an Oreol employee, you'll receive a comprehensive set of accounts to support your work and financial needs. This includes a free personal Basecamp account for project management, a free personal HEY email account, and a Dropbox account for file management. Additionally, you will receive a Revolut Business card that you can use for work expenses like the benefits described above, software, computer equipment, meet-up travel, or office supplies.
+As an Oreol employee, you'll receive a comprehensive set of accounts to support your work and financial needs. This includes a free personal Basecamp account for project management, a free personal HEY email account, and a Dropbox account for file management. 
+
+Additionally, you will receive a Revolut Business card that you can use for work expenses for software, computer equipment, meet-up travel, or office supplies.
 
 ### Active Lifestyle Support
 We value your well-being and encourage an active lifestyle. We're committed to helping you stay fit and healthy. That's why we're happy to cover half the cost of your sports subscription, whether it's for CrossFit, yoga, or any other sports discipline you're passionate about.
