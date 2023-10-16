@@ -14,11 +14,8 @@ Hyperion
 * [Employment and categories](./employment-and-categories.md)
 * Code of conduct
 * [Compensation and benefits](./compensation-and-benefits.md)
-
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
-
-* [Vocabulary](./vocabulary.md)
 
 
 Employee handbook Product histories Vocabulary Mastery Path Jobs Partners Research
