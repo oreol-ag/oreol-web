@@ -20,5 +20,5 @@ At Oreol, we are committed to fostering a **healthy and inclusive work environme
 ## Reporting
 If you encounter or witness any behavior that contravenes our Code of Conduct, we encourage you to report it promptly. You can make a report to your manager or directly to the leadership team via email or chat. Rest assured, all reports will be carefully reviewed and thoroughly investigated. We prioritize your confidentiality and will protect it to the extent possible during the investigation.
 
-### Consequences of Violations
+## Consequences of Violations
 Should an employee be found in breach of our Code of Conduct, the violation will be permanently recorded in their personnel file. The severity of the offense and the results of the investigation will determine the appropriate response. This may include mandatory training, an official reprimand, or, in extreme cases, termination of employment. We aim to communicate any actions taken in response to the reported violation to the individual who reported it, when feasible.
