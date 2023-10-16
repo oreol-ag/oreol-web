@@ -1,5 +1,3 @@
-# Product histories
-
 ## cloudFPGA
 As the CTO and Head of Product at DC-ONE AG (later known as GRAPIN AG), Javier held the responsibility of spearheading the development of a cutting-edge technology platform for heterogeneous computing. This platform was built upon IBM's Research Europe Zurich DOME MicroDataCenter and cloudFPGA high-performance computing platforms. To get to know more, please follow this link.
 

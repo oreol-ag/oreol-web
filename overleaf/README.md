@@ -21,5 +21,5 @@ Hyperion
 * [Vocabulary](./vocabulary.md)
 
 
-Employee handbook Mastery Path Product histories Jobs Partners Research
+Employee handbook Product histories Mastery Path  Jobs Partners Research
  
