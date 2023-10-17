@@ -14,6 +14,9 @@ We maintain a **uniform salary structure** for employees in the same position, r
 
 Our comprehensive benefits package is designed to support your physical and financial health, ensuring you have access to a range of valuable perks and resources to enhance your overall quality of life.
 
+### Employee profit sharing
+Oreol shares 10\% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, typically around March (e.g., 2023 profits distributed in March 2024). You’re eligible to participate in profit sharing after two years of working at Oreol.
+
 ### Paid time off
 
 * **Vacation time:** Oreol employees receive **five weeks of annual holiday,** which must be taken within the same year. They can carry over up to two weeks into the next year, but these days should be used by March 31st. The timing of holidays should be coordinated with supervisors based on operational requirements.
@@ -24,16 +27,13 @@ Our comprehensive benefits package is designed to support your physical and fina
 
 * **Summer hours:** Every year from May 1 through August 31, we implement a 4-day work week. To be eligible, new employees may need to complete a training program as advised by their team lead. If a holiday falls during summer hours, you can choose to take the holiday off or your regular summer day off. Any additional days off beyond this would be considered vacation days.
 
-### Employee profit sharing
-Oreol shares 10\% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, typically around March (e.g., 2023 profits distributed in March 2024). You’re eligible to participate in profit sharing after two years of working at Oreol.
-
-### Continuous education
-We believe in the importance of continuous learning and skill enhancement. To support our employees' professional growth, we offer funding opportunities for courses and training programs aimed at improving their skills and expertise.
-
 ### Personal accounts
 As an Oreol employee, you'll receive a comprehensive set of accounts to support your work and financial needs. This includes a free personal Basecamp account for project management, a free personal HEY email account, and a Dropbox account for file management. 
 
 Additionally, you will receive a Revolut Business card that you can use for work expenses for software, computer equipment, meet-up travel, or office supplies.
+
+### Continuous education
+We believe in the importance of continuous learning and skill enhancement. To support our employees' professional growth, we offer funding opportunities for courses and training programs aimed at improving their skills and expertise.
 
 ### Active Lifestyle Support
 We value your well-being and encourage an active lifestyle. We're committed to helping you stay fit and healthy. That's why we're happy to cover half the cost of your sports subscription, whether it's for CrossFit, yoga, or any other sports discipline you're passionate about.
