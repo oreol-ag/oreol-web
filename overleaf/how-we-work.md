@@ -1,4 +1,3 @@
-# How we work
 We work on Basecamp, in small teams, shaping up every six weeks, and practicing clear communication.
 
 ## On Basecamp
