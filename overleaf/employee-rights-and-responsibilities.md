@@ -19,11 +19,7 @@ We employ the annual working time model to provide flexibility and adaptable wor
 
 * **Balancing Work and Personal Life:** Remote work allows for flexibility in managing personal commitments. Employees are encouraged to maintain a healthy work-life balance and to communicate proactively with their teams if they need to adjust their schedules.
 
-* **Over-hours and overtime:** We understand that occasionally, operational demands may require employees to work beyond the standard hours. To address this, we have established a policy on over-hours and overtime.
-
-* **Over-hours:** Over-hours refer to extra hours worked beyond the legal limit of 45 hours per week. We encourage employees to strive for a balance by taking equivalent time off throughout the year.
-
-* **Carryover and Compensation:** In cases where balancing over-hours with time off is not feasible due to work needs, employees are permitted to carry over up to 100 hours to the following year. An additional 100 hours can be compensated. However, hours exceeding this limit will neither be carried over nor compensated.
+* **Over-hours and overtime:** We understand that occasionally, operational demands may require employees to work beyond the standard hours. To address this, we have established a policy on over-hours and overtime. **Over-hours refer to extra hours worked beyond the legal limit of 45 hours per week.** We encourage employees to strive for a balance by taking equivalent time off throughout the year. In cases where balancing over-hours with time off is not feasible due to work needs, **employees are permitted to carry over up to 100 hours to the following year.** An additional 100 hours can be compensated. However, hours exceeding this limit will neither be carried over nor compensated.
 
 ## Data Security and Technology
 
