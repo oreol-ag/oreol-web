@@ -13,6 +13,7 @@ Hyperion
 * [What we stand for](./what-we-stand-for.md)
 * [Employment and categories](./employment-and-categories.md)
 * [Code of conduct](./code-of-conduct.md)
+* [Employee rights and Responsibilities](./employee-rights-and-responsibilities.md)
 * [Compensation and benefits](./compensation-and-benefits.md)
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
