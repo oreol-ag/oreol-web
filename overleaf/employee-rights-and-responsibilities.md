@@ -1,5 +1,8 @@
 Oreol strongly supports and encourages **remote and asynchronous work,** which comes with specific rights and responsibilities to ensure a smooth and productive work experience. Adherence to our communication guidelines and working methodology is crucial.
 
+## REMOTE
+Employees are responsible for setting up a **productive and safe remote work environment.** This includes having a stable internet connection, a dedicated workspace, and the necessary tools and equipment.
+
 ## Communication guidelines and methodology
 
 * **Adherence to Communication Guidelines:** Remote work relies heavily on effective communication. Employees are expected to follow our communication guidelines diligently. This includes timely responses to messages, the use of appropriate communication tools (such as Basecamp and Shape Up), and respectful and professional interactions.
