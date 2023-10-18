@@ -8,6 +8,9 @@ We maintain a **uniform salary structure** for employees in the same position, r
 
 Our comprehensive benefits package is designed to support your physical and financial health, ensuring you have access to a range of valuable perks and resources to enhance your overall quality of life.
 
+## Swiss Federal Pension Fund PUBLICA
+**Our employees are members of the Swiss Federal Pension Fund PUBLICA,** which plays a pivotal role in securing your financial future and retirement planning. When your journey with Oreol comes to an end, you will have several options regarding your vested benefits, including the transfer of funds to a new employer's pension fund, opening a vested benefits account, or applying for a cash payment.
+
 ### Employee profit sharing
 Oreol shares 10\% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, typically around March (e.g., 2023 profits distributed in March 2024). You’re eligible to participate in profit sharing after two years of working at Oreol.
 
