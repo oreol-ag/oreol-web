@@ -17,6 +17,7 @@ Hyperion
 * [Compensation and benefits](./compensation-and-benefits.md)
 * [Where we work](./where-we-work.md)
 * [How we work](./how-we-work.md)
+* [Leaving Oreol](./leaving-oreol.md)
 
 
-Employee handbook Product histories Vocabulary Mastery Path Jobs Partners Research
+Employee handbook Product histories Vocabulary Mastery Path Contact Jobs Partners Research
