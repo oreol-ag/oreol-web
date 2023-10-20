@@ -9,13 +9,13 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # Change to directory
 cd "$DIR"
 
-# Remove webflow directory
-if [ -d "$DIR/webflow" ]; then
-    rm -r "$DIR/webflow"
+# Remove rtf directory
+if [ -d "$DIR/rtf" ]; then
+    rm -r "$DIR/rtf"
 fi
 
-# Create webflow directory
-mkdir "$DIR/webflow"
+# Create rtf directory
+mkdir "$DIR/rtf"
 
 # Function to convert Markdown to RTF
 convert_to_rtf() {
@@ -33,7 +33,7 @@ convert_to_rtf() {
 for file in *.md; do
     if [[ -f "$file" ]]; then
         filename_noext="${file%.md}"
-        rtf_output="$DIR/webflow/$filename_noext.rtf"
+        rtf_output="$DIR/rtf/$filename_noext.rtf"
         convert_to_rtf "$file" "$rtf_output"
     fi
 done
