@@ -9,15 +9,15 @@ Hyperion
   Advanced computing technologies
 
 
-* [What we do ](./what-we-do.md)
-* [What we stand for](./what-we-stand-for.md)
-* [Employment and categories](./employment-and-categories.md)
-* [Code of conduct](./code-of-conduct.md)
-* [Employee rights and Responsibilities](./employee-rights-and-responsibilities.md)
-* [Compensation and benefits](./compensation-and-benefits.md)
-* [Where we work](./where-we-work.md)
-* [How we work](./how-we-work.md)
+* [What We Do ](./what-we-do.md)
+* [What We Stand for](./what-we-stand-for.md)
+* [Employment and Categories](./employment-and-categories.md)
+* [Code of Conduct](./code-of-conduct.md)
+* [Employee Rights and Responsibilities](./employee-rights-and-responsibilities.md)
+* [Compensation and Benefits](./compensation-and-benefits.md)
+* [Where We Work](./where-we-work.md)
+* [How We Work](./how-we-work.md)
 * [Leaving Oreol](./leaving-oreol.md)
 
 
-Employee handbook Product histories Vocabulary Mastery Path Contact Jobs Partners Research
+Employee Handbook Product Histories Vocabulary Mastery Path Contact Jobs Partners Research

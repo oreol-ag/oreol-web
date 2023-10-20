@@ -6,16 +6,16 @@
 
 We work [on Basecamp,](#on-basecamp) [in small teams,](#in-small-teams) [shaping up every six weeks,](#shaping-up-every-six-weeks) and [practicing clear communication.](#practicing-clear-communication)
 
-## On Basecamp
+## On Basecamp.
 We use [Basecamp](https://basecamp.com) (an all-in-one project management platform) to develop our projects, communicate, and operate the company.
 
-## In small teams
+## In small teams.
 You can do big things with small teams, but it’s hard to do small things with big teams. And small is often plenty. That’s the power of small — you do what needs to be done rather than overdoing it.
 
-## Shaping up every six weeks
+## Shaping up every six weeks.
 Shape Up is a methodology to help teams design, develop, and ship new features every six weeks without burning out. Why six? It’s long enough to make meaningful progress, but short enough that you can see the end from the beginning. Plus it gives you about eight chances a year to recalibrate and decide what to work on next.
 
-## Practicing clear communication
+## Practicing clear communication.
 You can not not communicate: few things are as important to study, practice, and perfect as clear communication. **Poor communication creates more work** and we embrace these principles to avoid that:
 
 * Real-time sometimes, asynchronous most of the time.
