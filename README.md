@@ -11,7 +11,7 @@
 </h1>
 
 * [What We Do ](./what-we-do.md)
-* [What We Stand for](./what-we-stand-for.md)
+* [What We Stand For](./what-we-stand-for.md)
 * [Employment and Categories](./employment-and-categories.md)
 * [Code of Conduct](./code-of-conduct.md)
 * [Employee Rights and Responsibilities](./employee-rights-and-responsibilities.md)
