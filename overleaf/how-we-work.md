@@ -7,7 +7,9 @@ We use Basecamp (an all-in-one project management platform) to develop our proje
 You can do big things with small teams, but it’s hard to do small things with big teams. And small is often plenty. That’s the power of small — you do what needs to be done rather than overdoing it.
 
 ## Shaping up every six weeks.
-Shape Up is a development framework employing a unique product development approach with six-week cycles. During these cycles, teams work on projects with fixed timelines and flexible scopes, allowing for better focus and resource management. If a project isn't completed within the six weeks, it's considered a failure, and teams move on, maintaining a work-life balance without over hours.
+Shape Up is a development framework employing a unique product development approach with **six-week cycles.** During these cycles, teams work on projects with fixed timelines and flexible scopes, allowing for better focus and resource management. 
+
+If a project isn't completed within the six weeks, it's considered a failure, and teams move on, **maintaining a work-life balance without over hours.**
 
 ## Practicing clear communication.
 Few things are as important to study, practice, and perfect as clear communication. **Poor communication creates more work and we embrace these principles to avoid that:**
