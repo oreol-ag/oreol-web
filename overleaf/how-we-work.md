@@ -34,4 +34,4 @@ Few things are as important to study, practice, and perfect as clear communicati
 
 * The end of the day has a way of convincing you what you’ve done is good, but the next morning has a way of telling you the truth. If you aren’t sure, sleep on it before saying it.
 
-Please visit *The 37signals Guide to Internal Communication* (https://basecamp.com/guides/how-we-communicate) for reference or further study.
+Please visit https://basecamp.com/guides/how-we-communicate for reference or further study.
