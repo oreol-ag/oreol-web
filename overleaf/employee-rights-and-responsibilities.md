@@ -1,25 +1,26 @@
-Oreol strongly supports and encourages **remote and asynchronous work,** which comes with specific rights and responsibilities to ensure a smooth and productive work experience. Adherence to our communication guidelines and working methodology is crucial.
+*Oreol* strongly supports and encourages **remote and asynchronous work,** which comes with specific rights and responsibilities to ensure a smooth and productive work experience. Adherence to our communication guidelines and working methodology is crucial.
 
-## REMOTE.
+## Working remotely.
 Employees are responsible for setting up a **productive and safe remote work environment.** This includes having a stable internet connection, a dedicated workspace, and the necessary tools and equipment.
+
+The book *REMOTE—Office not requiered* (Jason Fried and David Heinemeier Hansson, https://basecamp.com/books/remote) is recommended for reference or further study. 
 
 ## Communication guidelines and methodology.
 
-* **Adherence to communication guidelines:** Remote work relies heavily on effective communication. Employees are expected to follow our communication guidelines diligently. This includes timely responses to messages, the use of appropriate communication tools (such as Basecamp and Shape Up), and respectful and professional interactions.
+* **Adherence to communication guidelines:** Remote work relies heavily on effective communication. Employees are expected to follow our communication guidelines diligently and **practicing clear communication.**
 
 * **Utilization of Basecamp:** We use Basecamp as our primary project management and communication platform. All employees should be proficient in using Basecamp for project tracking, task management, and team collaboration. Regular check-ins and project updates are essential.
 
-* **Embracing the Shape Up methodology:** At Oreol, we follow the Shape Up methodology for project development. Familiarity with Shape Up concepts and participation in the process is expected. This methodology helps ensure efficient project management and successful outcomes.
+* **Embracing the Shape Up methodology:** At *Oreol,* we follow the Shape Up methodology for project development. Familiarity with Shape Up concepts and participation in the process is expected. This methodology helps ensure efficient project management and successful outcomes **every six weeks.**
 
 ## Working hours.
+We do not formally track overtime hours or define an overtime budget. However, we acknowledge that at times, operational needs may necessitate employees to work beyond their standard hours. In alignment with our commitment to promoting a healthy work-life balance, we encourage everyone to consider the following:
 
-We employ the annual working time model to provide flexibility and adaptable working conditions that consider the personal needs of our employees. This model allows for the optimization of work-life balance.
+* **Respect for working hours:** Although remote work offers flexibility, employees are required to adhere to the schedules agreed upon with their teams. Punctuality in virtual meetings and collaboration is important. 
 
-* **Respect for working hours:** Although remote work offers flexibility, employees are required to adhere to the defined working hours and schedules agreed upon with their teams. Punctuality in virtual meetings and collaboration is important. **Our standard working hours for full-time employees are set at 41 hours per week.** These hours are designed to meet the operational needs of the organization while considering the well-being and productivity of our workforce.
+* **As a rule of thumb, full-time employees standard working hours are 41 hours per week.** These hours are designed to meet the operational needs of the organization while considering the well-being and productivity of our workforce.
 
-* **Balancing work and personal life:** Remote work allows for flexibility in managing personal commitments. Employees are encouraged to maintain a healthy work-life balance and to communicate proactively with their teams if they need to adjust their schedules.
-
-* **Over-hours and overtime:** We understand that occasionally, operational demands may require employees to work beyond the standard hours. To address this, we have established a policy on over-hours and overtime. **Over-hours refer to extra hours worked beyond the legal limit of 45 hours per week.** We encourage employees to strive for a balance by taking equivalent time off throughout the year. In cases where balancing over-hours with time off is not feasible due to work needs, **employees are permitted to carry over up to 100 hours to the following year.** An additional 100 hours can be compensated. However, hours exceeding this limit will neither be carried over nor compensated.
+* **Balancing work and personal life:** You should avoid to work extra hours beyond the legal limit of 45 hours per week. We encourage employees to strive for a balance by taking equivalent time as soon as they can.
 
 ## Data security and technology.
 

@@ -7,10 +7,10 @@ We use Basecamp (an all-in-one project management platform) to develop our proje
 You can do big things with small teams, but it’s hard to do small things with big teams. And small is often plenty. That’s the power of small — you do what needs to be done rather than overdoing it.
 
 ## Shaping up every six weeks.
-Shape Up is a methodology to help teams design, develop, and ship new features every six weeks without burning out. Why six? It’s long enough to make meaningful progress, but short enough that you can see the end from the beginning. Plus it gives you about eight chances a year to recalibrate and decide what to work on next.
+Shape Up is a development framework employing a unique product development approach with six-week cycles. During these cycles, teams work on projects with fixed timelines and flexible scopes, allowing for better focus and resource management. If a project isn't completed within the six weeks, it's considered a failure, and teams move on, maintaining a work-life balance without over hours.
 
 ## Practicing clear communication.
-You can not not communicate: few things are as important to study, practice, and perfect as clear communication. **Poor communication creates more work** and we embrace these principles to avoid that:
+Few things are as important to study, practice, and perfect as clear communication. **Poor communication creates more work and we embrace these principles to avoid that:**
 
 * Real-time sometimes, asynchronous most of the time.
 
@@ -31,3 +31,5 @@ You can not not communicate: few things are as important to study, practice, and
 * If something’s going to be difficult to hear or share, invite questions at the end. Ending without the invitation will lead to public silence but private conjecture. This is where rumors breed.
 
 * The end of the day has a way of convincing you what you’ve done is good, but the next morning has a way of telling you the truth. If you aren’t sure, sleep on it before saying it.
+
+Please visit *The 37signals Guide to Internal Communication* (https://basecamp.com/guides/how-we-communicate) for reference or further study.
