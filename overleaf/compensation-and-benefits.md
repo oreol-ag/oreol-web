@@ -2,7 +2,7 @@
 
 ## Compensation.
 
-We maintain a **uniform salary structure** for employees in the same position, regardless of their work location. We are fully dedicated to promoting fairness and equality in our compensation practices, and your salary will be determined by your **category within the Mastery Path.** The salary baselines adhere to the **Swiss Federal Personnel Act and the Canton of Lucerne Personnel Ordinance.**
+We maintain a **uniform salary structure** for employees in the same position, regardless of their work location. We are fully dedicated to promoting fairness and equality in our compensation practices, and your salary will be determined by your **category within the Mastery Path.** The salary baselines adhere to the **Swiss Federal Personnel Act** and the **Canton of Lucerne Personnel Ordinance.**
 
 ## Benefits.
 
@@ -24,9 +24,7 @@ Our comprehensive benefits package is designed to support your physical and fina
 * **Summer hours:** Every year from May 1 through August 31, we implement a 4-day work week. To be eligible, new employees may need to complete a training program as advised by their team lead. If a holiday falls during summer hours, you can choose to take the holiday off or your regular summer day off. Any additional days off beyond this would be considered vacation days.
 
 ### Personal accounts.
-As an *Oreol* employee, you'll receive a comprehensive set of accounts to support your work and financial needs. This includes a **Basecamp** account for project management, a **HEY** email account, and a **Dropbox** account for file storage. 
-
-Additionally, you will receive a **Revolut Business credit card** that you can use for work expenses for software, computer equipment, meet-up travel, or office supplies.
+As an *Oreol* employee, you'll receive a comprehensive set of accounts to support your work and financial needs. This includes a **Basecamp** account for project management, a **HEY** email account, and a **Dropbox** account for file storage. Additionally, you will receive a **Revolut Business credit card** that you can use for work expenses for software, computer equipment, meet-up travel, or office supplies.
 
 ### Continuous education.
 We believe in the importance of continuous learning and skill enhancement. To support our employees' professional growth, **we offer funding opportunities for courses and training programs** aimed at improving their skills and expertise.
