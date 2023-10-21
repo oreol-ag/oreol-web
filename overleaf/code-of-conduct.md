@@ -1,4 +1,4 @@
-At Oreol, we are committed to fostering a **healthy and inclusive work environment.** To achieve this, we've established a set of guidelines for employee behavior. **We will recognize as positive behavior:**
+At *Oreol,* we are committed to fostering a **healthy and inclusive work environment.** To achieve this, we've established a set of guidelines for employee behavior. **We will recognize as positive behavior:**
 
 * Using respectful and courteous language when communicating.
 * Demonstrating empathy, especially when addressing diverse viewpoints and experiences.
