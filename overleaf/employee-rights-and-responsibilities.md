@@ -14,7 +14,7 @@ The book *REMOTE—Office not requiered* (Jason Fried and David Heinemeier Hanss
 * **Embracing the Shape Up methodology:** At *Oreol,* we follow the Shape Up methodology for project development. Familiarity with Shape Up concepts and participation in the process is expected. This methodology helps ensure efficient project management and successful outcomes **every six weeks.**
 
 ## Working hours.
-We do not formally track overtime hours or define an overtime budget. However, we acknowledge that at times, operational needs may necessitate employees to work beyond their standard hours. In alignment with our commitment to promoting a healthy work-life balance, we encourage everyone to consider the following:
+**We do not formally track overtime hours or define an overtime budget.** However, we acknowledge that at times, operational needs may necessitate employees to work beyond their standard hours. In alignment with our commitment to promoting a healthy work-life balance, we encourage everyone to consider the following:
 
 * **Respect for working hours:** Although remote work offers flexibility, employees are required to adhere to the schedules agreed upon with their teams. Punctuality in virtual meetings and collaboration is important. 
 
