@@ -1,5 +1,5 @@
 ## Executive team.
-* **Dr. Javier Moya, *Oreol's* CEO and founder,** is a visionary in heterogeneous computing. He played a pivotal role in developing cutting-edge technology platforms based on IBM's DOME MicroDataCenter and cloudFPGA. At ETH Zurich's Systems Group, Javier led the rebuilding of the ETHZ Heterogeneous Accelerated Compute Cluster (ETHZ-HACC) and developed the Systems Group RunTime for device management. His innovation culminated in Oreol's first product, Hyperion, an on-premises acceleration platform that empowers specialized acceleration engineers with efficient device management and application development.
+* **Dr. Javier Moya, *Oreol's* CEO and founder,** is a visionary in heterogeneous computing. He played a pivotal role in developing cutting-edge technology platforms based on IBM's DOME MicroDataCenter and cloudFPGA. At ETH Zurich's Systems Group, Javier led the rebuilding of the ETHZ Heterogeneous Accelerated Compute Cluster (ETHZ-HACC) and developed the Systems Group RunTime for device management. His innovation culminated in *Oreol's* first product, Hyperion, an on-premises acceleration platform that empowers specialized acceleration engineers with efficient device management and application development.
 
 ## Product evolution.
 

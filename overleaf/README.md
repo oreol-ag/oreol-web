@@ -17,7 +17,9 @@ Hyperion
 * [Compensation and Benefits](./compensation-and-benefits.md)
 * [Where We Work](./where-we-work.md)
 * [How We Work](./how-we-work.md)
+* [Executive Team and Product Evolution](./executive-team-and-product-evolution.md)
 * [Leaving Oreol](./leaving-oreol.md)
 
 
-Employee Handbook Executive Team and Product Evolution Vocabulary Mastery Path Contact Jobs Partners Research
+Employee Handbook Vocabulary Mastery Path Contact Jobs  Partners Research  
+ 
