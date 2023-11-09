@@ -42,6 +42,10 @@
             display: block;
             margin-right: 30px;
         }
+
+        li a:hover {
+            color: rgb(89, 101, 104); /* Dark gray on hover */
+        }
     </style>
 </head>
 <body>
@@ -50,39 +54,39 @@
         <img src="oreol.png" alt="oreol">
     </header>
 
-    <ul>
-        <li><a href="https://sites.google.com/view/oreol-web/what-we-do">What We Do</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/what-we-stand-for">What We Stand For</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/employment-and-categories">Employment and Categories</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/code-of-conduct">Code of Conduct</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/employee-rights-and-responsibilities">Employee Rights and Responsibilities</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/compensation-and-benefits">Compensation and Benefits</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/where-we-work">Where We Work</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/how-we-work">How We Work</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/executive-team-and-product-evolution">Executive Team and Product Evolution</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/leaving-oreol">Leaving Oreol</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/vocabulary">Vocabulary</a></li>
-        <li><a href="https://sites.google.com/view/oreol-web/mastery-path">Mastery Path</a></li>
+    <ul class="menu">
+        <li><a href="https://sites.google.com/view/oreol-web/what-we-do" onmouseover="changeColor(this)" onmouseout="resetColor()">What We Do</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/what-we-stand-for" onmouseover="changeColor(this)" onmouseout="resetColor()">What We Stand For</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/employment-and-categories" onmouseover="changeColor(this)" onmouseout="resetColor()">Employment and Categories</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/code-of-conduct" onmouseover="changeColor(this)" onmouseout="resetColor()">Code of Conduct</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/employee-rights-and-responsibilities" onmouseover="changeColor(this)" onmouseout="resetColor()">Employee Rights and Responsibilities</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/compensation-and-benefits" onmouseover="changeColor(this)" onmouseout="resetColor()">Compensation and Benefits</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/where-we-work" onmouseover="changeColor(this)" onmouseout="resetColor()">Where We Work</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/how-we-work" onmouseover="changeColor(this)" onmouseout="resetColor()">How We Work</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/executive-team-and-product-evolution" onmouseover="changeColor(this)" onmouseout="resetColor()">Executive Team and Product Evolution</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/leaving-oreol" onmouseover="changeColor(this)" onmouseout="resetColor()">Leaving Oreol</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/vocabulary" onmouseover="changeColor(this)" onmouseout="resetColor()">Vocabulary</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/mastery-path" onmouseover="changeColor(this)" onmouseout="resetColor()">Mastery Path</a></li>
     </ul>
 
     <script>
         function changeColor(element) {
-          element.style.color = 'rgb(89, 101, 104)'; // Dark gray
-  
-          const otherLinks = document.querySelectorAll('a:not(:hover)');
-          otherLinks.forEach(otherLink => {
-            otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
-          });
+            element.style.color = 'rgb(89, 101, 104)'; // Dark gray
+
+            const otherLinks = document.querySelectorAll('a:not(:hover)');
+            otherLinks.forEach(otherLink => {
+                otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
+            });
         }
-  
+
         function resetColor() {
-          const links = document.querySelectorAll('a');
-  
-          links.forEach(link => {
-            link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
-          });
+            const links = document.querySelectorAll('a');
+
+            links.forEach(link => {
+                link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
+            });
         }
-      </script>
+    </script>
 
 </body>
 </html>
