@@ -17,12 +17,12 @@
         header {
             background-color: #ffffff; /* White background */
             padding: 10px;
-            text-align: left;
+            text-align: right;
         }
 
         header img {
             max-width: 150px; /* Increased maximum width of your logo */
-            margin-left: 20px; /* Increased left margin of your logo */
+            margin-right: 20px; /* Increased left margin of your logo */
             margin-bottom: 20px; /* Added spacing between image and links */
         }
 
@@ -31,18 +31,22 @@
             color: rgb(89, 101, 104);
             transition: color 0.3s;
             display: inline-block;
-            font-size: 40px; /* Set the font size for the links */
         }
-
-        ul.menu, ul.additional-menu {
+        
+        ul.menu {
             list-style-type: none;
             padding: 0;
             margin: 0;
-            display: flex; /* Use flexbox to align items horizontally */
+            margin-left: 100px; /* Added left margin to the links */
+        }
+        
+        ul.menu li {
+            display: block;
+            margin-right: 30px;
         }
 
-        ul.menu li, ul.additional-menu li {
-            margin-right: 30px;
+        li a {
+            font-size: 40px; /* Set the font size for the links within ul.menu */
         }
 
         li a:hover {
@@ -82,16 +86,16 @@
     <ul class="menu">
         <li><a href="https://sites.google.com/view/oreol-web/what-we-do" onmouseover="changeColor(this)" onmouseout="resetColor()">What We Do</a></li>
         <li><a href="https://sites.google.com/view/oreol-web/what-we-stand-for" onmouseover="changeColor(this)" onmouseout="resetColor()">What We Stand For</a></li>
-        <!-- Other menu items ... -->
-    </ul>
-
-    <ul class="additional-menu">
-        <li><a href="#">Employee Handbook</a></li>
-        <li><a href="#">Hyperion</a></li>
-        <li><a href="#">Research</a></li>
-        <li><a href="#">JOBS</a></li>
-        <li><a href="#">Partners</a></li>
-        <li><a href="#">Contacts</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/employment-and-categories" onmouseover="changeColor(this)" onmouseout="resetColor()">Employment and Categories</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/code-of-conduct" onmouseover="changeColor(this)" onmouseout="resetColor()">Code of Conduct</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/employee-rights-and-responsibilities" onmouseover="changeColor(this)" onmouseout="resetColor()">Employee Rights and Responsibilities</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/compensation-and-benefits" onmouseover="changeColor(this)" onmouseout="resetColor()">Compensation and Benefits</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/where-we-work" onmouseover="changeColor(this)" onmouseout="resetColor()">Where We Work</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/how-we-work" onmouseover="changeColor(this)" onmouseout="resetColor()">How We Work</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/executive-team-and-product-evolution" onmouseover="changeColor(this)" onmouseout="resetColor()">Executive Team and Product Evolution</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/leaving-oreol" onmouseover="changeColor(this)" onmouseout="resetColor()">Leaving Oreol</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/vocabulary" onmouseover="changeColor(this)" onmouseout="resetColor()">Vocabulary</a></li>
+        <li><a href="https://sites.google.com/view/oreol-web/mastery-path" onmouseover="changeColor(this)" onmouseout="resetColor()">Mastery Path</a></li>
     </ul>
 
     <script>
