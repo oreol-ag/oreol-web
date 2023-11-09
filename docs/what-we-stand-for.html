@@ -28,7 +28,7 @@
         header img {
             max-width: 150px; /* Increased maximum width of your logo */
             margin-right: 20px; /* Increased left margin of your logo */
-            margin-bottom: 20px; /* Added spacing between image and links */
+            margin-bottom: 20px; /* Reduced spacing between image and links */
         }
 
         a {
@@ -59,22 +59,23 @@
         }
 
         h1 {
-            font-size: 30px;
+            font-size: 40px;
+            margin-bottom: 0px; /* Further reduced margin-bottom for h1 */
         }
 
         h2 {
-            font-size: 24px;
+            font-size: 36px;
         }
 
         h3 {
-            font-size: 22px;
+            font-size: 30px;
         }
 
         /* Renamed "menu inline" to "menu navigate" */
         ul.menu.navigate {
             display: inline-block;
-            margin-left: 100px; /* Adjusted margin for the second set of links */
-            margin-top: 40px; /* Added top margin equivalent to the height of a 40px text line */
+            margin-left: 725px; /* Adjusted margin for the second set of links */
+            margin-bottom: -20px; /* Further reduced margin-bottom for ul.menu.navigate */
         }
 
         /* Styling for the second set of links */
@@ -96,8 +97,9 @@
     </header>
 
     <ul class="menu navigate">
-        <li><a href="what-we-do.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="margin-right: -25px;">&larr; What We Do</a></li>
-        <li><a href="" onmouseover="changeColor(this)" onmouseout="resetColor()">Employment and Categories &rarr;</a></li>
+        <li><a href="what-we-do.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="index.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="employment-and-categories.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px;">&#9679;</a></li> <!-- What We Stand For &rarr; -->
     </ul>
     
     <h1>What We Stand For</h1>
