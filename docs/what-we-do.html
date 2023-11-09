@@ -82,21 +82,21 @@
             font-size: 22px;
         }
 
-        /* Specific style for the second ul.menu */
-        ul.menu.inline {
+        /* Renamed "menu inline" to "menu navigate" */
+        ul.menu.navigate {
             display: inline-block;
             margin-left: 100px; /* Adjusted margin for the second set of links */
             margin-top: 40px; /* Added top margin equivalent to the height of a 40px text line */
         }
 
         /* Styling for the second set of links */
-        ul.menu.inline li {
+        ul.menu.navigate li {
             display: inline-block;
             margin-right: 30px;
         }
 
         /* Font size for the inline menu text */
-        ul.menu.inline li a {
+        ul.menu.navigate li a {
             font-size: 30px;
         }
     </style>
@@ -107,11 +107,7 @@
         <img src="oreol.png" alt="oreol">
     </header>
 
-    <ul>
-        <li><a href="index.html" onmouseover="changeColor(this)" onmouseout="resetColor()">Go Back</a></li>
-    </ul>
-
-    <ul class="menu inline">
+    <ul class="menu navigate">
         <li><a href="index.html" onmouseover="changeColor(this)" onmouseout="resetColor()">Go Go Back!</a></li>
         <li><a href="mailto:hey@oreol.ch" onmouseover="changeColor(this)" onmouseout="resetColor()">Hyperion</a></li>
     </ul>
