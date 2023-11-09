@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/oreol-ag/oreol-web/blob/main/Oreol.png" align="center" width="350">
+<img src="https://github.com/oreol-ag/oreol-web/blob/main/oreol.png" align="center" width="350">
 </p>
 
 <h1 align="center">
