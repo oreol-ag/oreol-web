@@ -32,15 +32,15 @@
             transition: color 0.3s;
             display: inline-block;
         }
-        
-        ul.menu {
+
+        ul.menu, ul.additional-menu {
             list-style-type: none;
             padding: 0;
             margin: 0;
-            margin-left: 100px; /* Added left margin to the links */
+            display: inline-block;
         }
-        
-        ul.menu li {
+
+        ul.menu li, ul.additional-menu li {
             display: block;
             margin-right: 30px;
         }
@@ -49,7 +49,11 @@
             font-size: 40px; /* Set the font size for the links within ul.menu */
         }
 
-        li a:hover {
+        li.additional-link a {
+            font-size: 30px; /* Set the font size for the links within ul.additional-menu */
+        }
+
+        li a:hover, li.additional-link a:hover {
             color: rgb(89, 101, 104); /* Dark gray on hover */
         }
 
@@ -96,6 +100,15 @@
         <li><a href="https://sites.google.com/view/oreol-web/leaving-oreol" onmouseover="changeColor(this)" onmouseout="resetColor()">Leaving Oreol</a></li>
         <li><a href="https://sites.google.com/view/oreol-web/vocabulary" onmouseover="changeColor(this)" onmouseout="resetColor()">Vocabulary</a></li>
         <li><a href="https://sites.google.com/view/oreol-web/mastery-path" onmouseover="changeColor(this)" onmouseout="resetColor()">Mastery Path</a></li>
+    </ul>
+
+    <ul class="additional-menu">
+        <li class="additional-link"><a href="#">Employee Handbook</a></li>
+        <li class="additional-link"><a href="#">Hyperion</a></li>
+        <li class="additional-link"><a href="#">Research</a></li>
+        <li class="additional-link"><a href="#">JOBS</a></li>
+        <li class="additional-link"><a href="#">Partners</a></li>
+        <li class="additional-link"><a href="#">Contacts</a></li>
     </ul>
 
     <script>
