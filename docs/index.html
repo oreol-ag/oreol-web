@@ -25,27 +25,22 @@
             margin-left: 20px; /* Increased left margin of your logo */
         }
 
-        ul {
-            list-style: none; /* Remove bullets from the list */
+        a {
+            text-decoration: none;
+            color: rgb(89, 101, 104);
+            transition: color 0.3s;
+            display: inline-block;
+        }
+        
+        ul.menu {
+            list-style-type: none;
             padding: 0;
             margin: 0;
         }
-
-        li {
-            margin-bottom: 0px; /* Adjusted margin-bottom */
-        }
-
-        li a {
-            text-decoration: none;
-            color: #333; /* Adjust the link color */
-            font-weight: bold;
-            display: inline-block;
-            transition: color 0.3s;
-            margin-left: 200px; /* Added left margin */
-        }
-
-        li a:hover {
-            color: rgb(89, 101, 104); /* Dark gray on hover */
+        
+        ul.menu li {
+            display: block;
+            margin-right: 30px;
         }
     </style>
 </head>
@@ -69,6 +64,25 @@
         <li><a href="https://sites.google.com/view/oreol-web/vocabulary">Vocabulary</a></li>
         <li><a href="https://sites.google.com/view/oreol-web/mastery-path">Mastery Path</a></li>
     </ul>
+
+    <script>
+        function changeColor(element) {
+          element.style.color = 'rgb(89, 101, 104)'; // Dark gray
+  
+          const otherLinks = document.querySelectorAll('a:not(:hover)');
+          otherLinks.forEach(otherLink => {
+            otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
+          });
+        }
+  
+        function resetColor() {
+          const links = document.querySelectorAll('a');
+  
+          links.forEach(link => {
+            link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
+          });
+        }
+      </script>
 
 </body>
 </html>
