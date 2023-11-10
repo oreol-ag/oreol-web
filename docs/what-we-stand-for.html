@@ -11,6 +11,12 @@
             font-weight: 600; /* Adjust the font weight as needed */
         }
 
+        @font-face {
+            font-family: 'GothamRoundedBook';
+            src: local('GothamRoundedBook'), url('fonts/GothamRoundedBook_21018.ttf') format('truetype');
+            font-weight: normal; /* Adjust the font weight as needed */
+        }
+
         body {
             font-family: 'GothamRoundedMedium', sans-serif;
             font-size: 30px;
@@ -53,6 +59,10 @@
             color: rgb(89, 101, 104);
         }
 
+        strong {
+            font-size: 24px; /* Set the font size for the strong tag */
+        }
+
         h1, h2, h3 {
             font-weight: bold;
             margin-left: 100px; /* Added left margin to h1, h2, h3 */
@@ -69,6 +79,13 @@
 
         h3 {
             font-size: 30px;
+        }
+
+        p.content {
+            margin-left: 100px; /* Adjusted margin for the new paragraph */
+            margin-right: 800px; /* Added right margin for the new paragraph */
+            font-size: 24px; /* Set the font size for the new paragraph */
+            font-family: 'GothamRoundedBook', sans-serif; /* Applied the new font to the paragraph */
         }
 
         /* Renamed "menu inline" to "menu navigate" */
@@ -102,7 +119,30 @@
         <li><a href="employment-and-categories.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px;">&#9679;</a></li> <!-- What We Stand For &rarr; -->
     </ul>
     
+    <!-- Content starts -->
     <h1>What We Stand For</h1>
+
+    <p class="content">These <strong>shared values</strong> are the foundation for unity and
+    alignment in our company.</p>
+    <ul>
+    <li><p class="content"><strong>Walk the walk:</strong> Your actions carry weight, and
+    they have the power to inspire others. Your conduct sets the standard,
+    shaping the behavior of those around you to reflect the values and
+    principles you embody.</p></li>
+    <li><p class="content"><strong>Be honest:</strong> Honesty and open communication are
+    indispensable. Transparency in your actions fosters collaboration and
+    facilitates timely conflict resolution.</p></li>
+    <li><p class="content"><strong>Have confidence:</strong> We have faith in your judgment.
+    Trust your instincts; your intuition and decision-making abilities are
+    valuable assets that can lead to innovative solutions.</p></li>
+    <li><p class="content"><strong>Prioritize quality:</strong> Choose quality over
+    quantity. Focus on crafting fewer, outstanding creations that resonate,
+    rather than churning out a multitude of average ones.</p></li>
+    <li><p class="content"><strong>Embrace your inner artist:</strong> Beauty isn’t confined
+    solely to art; it permeates our everyday tasks and work. Everything we
+    undertake should not only be functional but also exude beauty.</p></li>
+    </ul>
+    <!-- Content ends -->
 
     <script>
         function changeColor(element) {
