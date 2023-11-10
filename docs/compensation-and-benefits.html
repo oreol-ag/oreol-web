@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced computing technologies</title>
+    <style>
+        @font-face {
+            font-family: 'GothamRoundedMedium';
+            src: local('GothamRoundedMedium'), url('fonts/GothamRoundedMedium_21022.ttf') format('truetype');
+            font-weight: 600; /* Adjust the font weight as needed */
+        }
+
+        @font-face {
+            font-family: 'GothamRoundedBook';
+            src: local('GothamRoundedBook'), url('fonts/GothamRoundedBook_21018.ttf') format('truetype');
+            font-weight: normal; /* Adjust the font weight as needed */
+        }
+
+        body {
+            font-family: 'GothamRoundedMedium', sans-serif;
+            font-size: 30px;
+            margin: 0;
+            padding: 0;
+            text-align: left;
+        }
+
+        header {
+            background-color: #ffffff; /* White background */
+            padding: 10px;
+            text-align: right;
+        }
+
+        header img {
+            max-width: 150px; /* Increased maximum width of your logo */
+            margin-right: 20px; /* Increased left margin of your logo */
+            margin-bottom: 20px; /* Reduced spacing between image and links */
+        }
+
+        a {
+            text-decoration: none;
+            color: rgb(89, 101, 104);
+            transition: color 0.3s;
+            display: inline-block;
+        }
+
+        li a {
+            font-size: 40px; /* Set the font size for the links within ul.menu */
+        }
+
+        li a:hover {
+            color: rgb(89, 101, 104); /* Dark gray on hover */
+        }
+
+        /* Additional styles */
+        p, strong, h1, h2, h3, ul, li {
+            font-family: 'GothamRoundedMedium', sans-serif;
+            font-size: 20px;
+            color: rgb(89, 101, 104);
+        }
+
+        strong {
+            font-size: 24px; /* Set the font size for the strong tag */
+        }
+
+        h1, h2, h3 {
+            font-weight: bold;
+            margin-left: 100px; /* Added left margin to h1, h2, h3 */
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 0px; /* Further reduced margin-bottom for h1 */
+        }
+
+        h2 {
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 28px;
+        }
+
+        p.content {
+            margin-left: 100px; /* Adjusted margin for the new paragraph */
+            margin-right: 800px; /* Added right margin for the new paragraph */
+            font-size: 24px; /* Set the font size for the new paragraph */
+            font-family: 'GothamRoundedBook', sans-serif; /* Applied the new font to the paragraph */
+        }
+
+        /* Renamed "menu inline" to "menu navigate" */
+        ul.menu.navigate {
+            display: inline-block;
+            margin-left: 725px; /* Adjusted margin for the second set of links */
+            margin-bottom: -20px; /* Further reduced margin-bottom for ul.menu.navigate */
+        }
+
+        /* Styling for the second set of links */
+        ul.menu.navigate li {
+            display: inline-block;
+            margin-right: 30px;
+        }
+
+        /* Font size for the inline menu text */
+        ul.menu.navigate li a {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="oreol.png" alt="oreol">
+    </header>
+
+    <ul class="menu navigate">
+        <li><a href="employee-rights-and-responsibilities.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="index.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="where-we-work.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px;">&#9679;</a></li> <!-- What We Stand For &rarr; -->
+    </ul>
+    
+    <!-- Content starts -->
+    <h1>Compensation and Benefits</h1>
+
+    <p class="content"><em>Oreol</em> provides its employees with stimulating work and an
+    excellent work-life balance, expecting them in return to deliver
+    outstanding performance.</p>
+    <h2 id="compensation.">Compensation.</h2>
+    <p class="content">We maintain a <strong>uniform salary structure</strong> for employees
+    in the same position, regardless of their work location. We are fully
+    dedicated to promoting fairness and equality in our compensation
+    practices, and your salary will be determined by your <strong>category
+    within the Mastery Path.</strong> The salary baselines adhere to the
+    <strong>Swiss Federal Personnel Act</strong> and the <strong>Canton of
+    Lucerne Personnel Ordinance.</strong></p>
+    <h2 id="benefits.">Benefits.</h2>
+    <p class="content">Our comprehensive benefits package is designed to support your
+    physical and financial health, ensuring you have access to a range of
+    valuable perks and resources to enhance your overall quality of
+    life.</p>
+    <h3 id="swiss-federal-pension-fund-publica.">Swiss Federal Pension Fund
+    PUBLICA.</h3>
+    <p class="content"><strong>Our employees are members of the Swiss Federal Pension Fund
+    PUBLICA,</strong> which plays a pivotal role in securing your financial
+    future and retirement planning. When your journey with <em>Oreol</em>
+    comes to an end, you will have several options regarding your vested
+    benefits, including the transfer of funds to a new employer’s pension
+    fund, opening a vested benefits account, or applying for a cash
+    payment.</p>
+    <h3 id="employee-profit-sharing.">Employee profit sharing.</h3>
+    <p class="content"><strong><em>Oreol</em> shares 10% of its annual company profits with
+    employees, which is distributed in shares based on tenure.</strong>
+    Profits are distributed after the books are closed on the previous
+    fiscal year, typically around March (e.g., 2023 profits distributed in
+    March 2024). You’re eligible to participate in profit sharing
+    <strong>after two years of working at <em>Oreol.</em></strong></p>
+    <h3 id="paid-time-off.">Paid time off.</h3>
+    <ul>
+    <li><p class="content"><strong>Vacation time:</strong> <em>Oreol</em> employees receive
+    <strong>five weeks of annual holiday,</strong> which must be taken
+    within the same year. They can carry over up to two weeks into the next
+    year, but these days should be used by March 31st. The timing of
+    holidays should be <strong>coordinated with supervisors based on
+    operational requirements.</strong></p></li>
+    <li><p class="content"><strong>Sick time:</strong> We maintain a flexible approach to
+    sick time that prioritizes your well-being. <strong>We don’t operate
+    with a formal bank of sick days, nor do we require you to keep track of
+    your sick days.</strong> However if you’re unexpectedly away from work
+    due to illness or injury for more than 5 consecutive work days, you’ll
+    transition from sick time to Personal Leave. Your manager will check in
+    with you if you’re consistently taking 3+ unplanned sick days per month.
+    <strong>Excessive use of sick time may result in disciplinary
+    measures.</strong></p></li>
+    <li><p class="content"><strong>Personal leave:</strong> If you are unable to work due to
+    illness or injury for more than one week, please promptly notify your
+    manager. <strong>You can take four weeks off at full pay, followed by
+    eight weeks at 70% pay.</strong> After 12 weeks, we’ll discuss your
+    situation on a case-by-case basis. In some cases, you may be required to
+    provide medical documentation to support your request. It’s important to
+    note that Personal Leave is limited to one instance of paid leave within
+    a 12-month period.</p></li>
+    <li><p class="content"><strong>Summer hours:</strong> Every year from May 1 through
+    August 31, we implement a 4-day work week. To be eligible, new employees
+    may need to complete a training program as advised by their team lead.
+    If a holiday falls during summer hours, you can choose to take the
+    holiday off or your regular summer day off. Any additional days off
+    beyond this would be considered vacation days.</p></li>
+    </ul>
+    <h3 id="personal-accounts.">Personal accounts.</h3>
+    <p class="content">As an <em>Oreol</em> employee, you’ll receive a comprehensive set of
+    accounts to support your work and financial needs. This includes a
+    <strong>Basecamp</strong> account for project management, a
+    <strong>HEY</strong> email account, and a <strong>Dropbox</strong>
+    account for file storage. Additionally, you will receive a
+    <strong>Revolut Business credit card</strong> that you can use for work
+    expenses for software, computer equipment, meet-up travel, or office
+    supplies.</p>
+    <h3 id="continuous-education.">Continuous education.</h3>
+    <p class="content">We believe in the importance of continuous learning and skill
+    enhancement. To support our employees’ professional growth, <strong>we
+    offer funding opportunities for courses and training programs</strong>
+    aimed at improving their skills and expertise.</p>
+    <h3 id="active-lifestyle-support.">Active lifestyle support.</h3>
+    <p class="content">We value your well-being and encourage an active lifestyle and we’re
+    committed to helping you stay fit and healthy. That’s why <strong>we’re
+    happy to cover half the cost of your sports subscription,</strong>
+    whether it’s for CrossFit, yoga, or any other sports discipline you’re
+    passionate about.</p>
+    <!-- Content ends -->
+
+    <script>
+        function changeColor(element) {
+            element.style.color = 'rgb(89, 101, 104)'; // Dark gray
+
+            const otherLinks = document.querySelectorAll('a:not(:hover)');
+            otherLinks.forEach(otherLink => {
+                otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
+            });
+        }
+
+        function resetColor() {
+            const links = document.querySelectorAll('a');
+
+            links.forEach(link => {
+                link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
+            });
+        }
+    </script>
+
+</body>
+</html>
