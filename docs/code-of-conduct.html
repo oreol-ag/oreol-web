@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced computing technologies</title>
+    <style>
+        @font-face {
+            font-family: 'GothamRoundedMedium';
+            src: local('GothamRoundedMedium'), url('fonts/GothamRoundedMedium_21022.ttf') format('truetype');
+            font-weight: 600; /* Adjust the font weight as needed */
+        }
+
+        @font-face {
+            font-family: 'GothamRoundedBook';
+            src: local('GothamRoundedBook'), url('fonts/GothamRoundedBook_21018.ttf') format('truetype');
+            font-weight: normal; /* Adjust the font weight as needed */
+        }
+
+        body {
+            font-family: 'GothamRoundedMedium', sans-serif;
+            font-size: 30px;
+            margin: 0;
+            padding: 0;
+            text-align: left;
+        }
+
+        header {
+            background-color: #ffffff; /* White background */
+            padding: 10px;
+            text-align: right;
+        }
+
+        header img {
+            max-width: 150px; /* Increased maximum width of your logo */
+            margin-right: 20px; /* Increased left margin of your logo */
+            margin-bottom: 20px; /* Reduced spacing between image and links */
+        }
+
+        a {
+            text-decoration: none;
+            color: rgb(89, 101, 104);
+            transition: color 0.3s;
+            display: inline-block;
+        }
+
+        li a {
+            font-size: 40px; /* Set the font size for the links within ul.menu */
+        }
+
+        li a:hover {
+            color: rgb(89, 101, 104); /* Dark gray on hover */
+        }
+
+        /* Additional styles */
+        p, strong, h1, h2, h3, ul, li {
+            font-family: 'GothamRoundedMedium', sans-serif;
+            font-size: 20px;
+            color: rgb(89, 101, 104);
+        }
+
+        strong {
+            font-size: 24px; /* Set the font size for the strong tag */
+        }
+
+        h1, h2, h3 {
+            font-weight: bold;
+            margin-left: 100px; /* Added left margin to h1, h2, h3 */
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 0px; /* Further reduced margin-bottom for h1 */
+        }
+
+        h2 {
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 28px;
+        }
+
+        p.content {
+            margin-left: 100px; /* Adjusted margin for the new paragraph */
+            margin-right: 800px; /* Added right margin for the new paragraph */
+            font-size: 24px; /* Set the font size for the new paragraph */
+            font-family: 'GothamRoundedBook', sans-serif; /* Applied the new font to the paragraph */
+        }
+
+        /* Renamed "menu inline" to "menu navigate" */
+        ul.menu.navigate {
+            display: inline-block;
+            margin-left: 725px; /* Adjusted margin for the second set of links */
+            margin-bottom: -20px; /* Further reduced margin-bottom for ul.menu.navigate */
+        }
+
+        /* Styling for the second set of links */
+        ul.menu.navigate li {
+            display: inline-block;
+            margin-right: 30px;
+        }
+
+        /* Font size for the inline menu text */
+        ul.menu.navigate li a {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="oreol.png" alt="oreol">
+    </header>
+
+    <ul class="menu navigate">
+        <li><a href="employment-and-categories.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="index.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="employee-rights-and-responsibilities.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px;">&#9679;</a></li> <!-- What We Stand For &rarr; -->
+    </ul>
+    
+    <!-- Content starts -->
+    <h1>Code of Conduct</h1>
+
+    <p class="content">At <em>Oreol,</em> we are committed to fostering a <strong>healthy
+    and inclusive work environment.</strong> To achieve this, we’ve
+    established a set of guidelines for employee behavior. <strong>We will
+    recognize as positive behavior:</strong></p>
+    <ul>
+    <li>Using respectful and courteous language when communicating.</li>
+    <li>Demonstrating empathy, especially when addressing diverse viewpoints
+    and experiences.</li>
+    <li>Embracing constructive criticism and direct feedback, and providing
+    it with a spirit of improvement.</li>
+    <li>Operating with a default of trust and positivity, assuming good
+    intentions in work relationships.</li>
+    </ul>
+    <p class="content">On the other hand, <strong>the following behaviors are considered
+    unacceptable:</strong></p>
+    <ul>
+    <li>The use of any language or imagery that is sexualized or violent in
+    nature.</li>
+    <li>Making unwelcome sexual advances or providing unwanted sexual
+    attention.</li>
+    <li>Engaging in any form of discrimination or harassment, especially on
+    the basis of protected characteristics such as race, color, religion,
+    sex, sexual orientation, gender identity or expression, age, disability,
+    marital status, citizenship, national origin, genetic information, or
+    any other characteristic protected by law.</li>
+    </ul>
+    <h2 id="reporting.">Reporting.</h2>
+    <p class="content"><strong>If you encounter or witness any behavior that contravenes our
+    Code of Conduct, we encourage you to report it promptly.</strong> You
+    can make a report to your manager or directly to the leadership team via
+    email or chat. Rest assured, all reports will be carefully reviewed and
+    thoroughly investigated. We prioritize your
+    <strong>confidentiality</strong> and will protect it to the extent
+    possible during the investigation.</p>
+    <h2 id="consequences-of-violations.">Consequences of violations.</h2>
+    <p class="content">Should an employee be found in breach of our Code of Conduct,
+    <strong>the violation will be permanently recorded in their personnel
+    file.</strong> The severity of the offense and the results of the
+    investigation will determine the appropriate response. This may include
+    mandatory training, an official reprimand, or, in extreme cases,
+    termination of employment. We aim to communicate any actions taken in
+    response to the reported violation to the individual who reported it,
+    when feasible.</p>
+    <!-- Content ends -->
+
+    <script>
+        function changeColor(element) {
+            element.style.color = 'rgb(89, 101, 104)'; // Dark gray
+
+            const otherLinks = document.querySelectorAll('a:not(:hover)');
+            otherLinks.forEach(otherLink => {
+                otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
+            });
+        }
+
+        function resetColor() {
+            const links = document.querySelectorAll('a');
+
+            links.forEach(link => {
+                link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
+            });
+        }
+    </script>
+
+</body>
+</html>
