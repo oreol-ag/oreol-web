@@ -1,7 +1,3 @@
-<p align="right">
-<a href="https://github.com/oreol-ag/hyperion-web">Hyperion</a>
-</p>
-
 <p align="center">
 <img src="https://github.com/oreol-ag/oreol-web/blob/main/oreol.png" align="center" width="350">
 </p>
