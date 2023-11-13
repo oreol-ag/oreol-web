@@ -184,16 +184,16 @@
     <script>
         function changeColor(element) {
             element.style.color = 'rgb(89, 101, 104)'; // Dark gray
-
-            const otherLinks = document.querySelectorAll('a:not(:hover)');
+    
+            const otherLinks = document.querySelectorAll('ul.menu.navigate a:not(:hover)');
             otherLinks.forEach(otherLink => {
                 otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
             });
         }
-
+    
         function resetColor() {
-            const links = document.querySelectorAll('a');
-
+            const links = document.querySelectorAll('ul.menu.navigate a');
+    
             links.forEach(link => {
                 link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
             });
