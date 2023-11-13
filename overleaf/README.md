@@ -1,11 +1,3 @@
-Hyperion
-
-
-
-
-
-
-
   Advanced computing technologies
 
 
@@ -19,7 +11,13 @@ Hyperion
 * [How We Work](./how-we-work.md)
 * [Executive Team and Product Evolution](./executive-team-and-product-evolution.md)
 * [Leaving Oreol](./leaving-oreol.md)
+* [Mastery Path](./mastery-path.md)
+* [Vocabulary](./vocabulary.md)
+
+
+Employee Handbook Hyperion Research JOBS Partners Contact
+ 
 
 
 Employee Handbook Vocabulary Mastery Path Contact Jobs  Partners Research  
- 
+  -->
