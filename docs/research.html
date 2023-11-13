@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced computing technologies</title>
+    <style>
+        @font-face {
+            font-family: 'GothamRoundedMedium';
+            src: local('GothamRoundedMedium'), url('fonts/GothamRoundedMedium_21022.ttf') format('truetype');
+            font-weight: 600; /* Adjust the font weight as needed */
+        }
+
+        @font-face {
+            font-family: 'GothamRoundedBook';
+            src: local('GothamRoundedBook'), url('fonts/GothamRoundedBook_21018.ttf') format('truetype');
+            font-weight: normal; /* Adjust the font weight as needed */
+        }
+
+        body {
+            font-family: 'GothamRoundedMedium', sans-serif;
+            font-size: 30px;
+            margin: 0;
+            padding: 0;
+            text-align: left;
+        }
+
+        header {
+            background-color: #ffffff; /* White background */
+            padding: 10px;
+            text-align: right;
+        }
+
+        header img {
+            max-width: 150px; /* Increased maximum width of your logo */
+            margin-right: 20px; /* Increased left margin of your logo */
+            margin-bottom: 20px; /* Reduced spacing between image and links */
+        }
+
+        a {
+            text-decoration: none;
+            color: rgb(89, 101, 104);
+            transition: color 0.3s;
+            display: inline-block;
+        }
+
+        li a {
+            font-size: 40px; /* Set the font size for the links within ul.menu */
+        }
+
+        li a:hover {
+            color: rgb(89, 101, 104); /* Dark gray on hover */
+        }
+
+        /* Additional styles */
+        p, strong, h1, h2, h3, ul, li {
+            font-family: 'GothamRoundedMedium', sans-serif;
+            font-size: 20px;
+            color: rgb(89, 101, 104);
+        }
+
+        strong {
+            font-size: 24px; /* Set the font size for the strong tag */
+        }
+
+        h1, h2, h3 {
+            font-weight: bold;
+            margin-left: 100px; /* Added left margin to h1, h2, h3 */
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 0px; /* Further reduced margin-bottom for h1 */
+        }
+
+        h2 {
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 28px;
+        }
+
+        p.content {
+            margin-left: 100px; /* Adjusted margin for the new paragraph */
+            margin-right: 800px; /* Added right margin for the new paragraph */
+            font-size: 24px; /* Set the font size for the new paragraph */
+            font-family: 'GothamRoundedBook', sans-serif; /* Applied the new font to the paragraph */
+        }
+
+        /* Renamed "menu inline" to "menu navigate" */
+        ul.menu.navigate {
+            display: inline-block;
+            margin-left: 55px; /* Adjusted margin for the second set of links */
+            margin-bottom: -20px; /* Further reduced margin-bottom for ul.menu.navigate */
+        }
+
+        /* Styling for the second set of links */
+        ul.menu.navigate li {
+            display: inline-block;
+            margin-right: 30px;
+        }
+
+        /* Font size for the inline menu text */
+        ul.menu.navigate li a {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="oreol.png" alt="oreol">
+    </header>
+
+    <ul class="menu navigate">
+        <li><a href="" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="index.html" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px; margin-right: -25px;">&#9679;</a></li> <!-- &larr; Go Back -->
+        <li><a href="" onmouseover="changeColor(this)" onmouseout="resetColor()" style="font-size: 80px;">&#9679;</a></li> <!-- What We Stand For &rarr; -->
+    </ul>
+    
+    <!-- Content starts -->
+    <h1>Research</h1>
+
+    <p>Our mission is to drive innovation for hardware engineers, data
+    scientists, and research institutions by providing cutting-edge
+    computing technologies. We draw inspiration from all the researchers and
+    collaborators we have the pleasure to work with—so they are, in fact,
+    the ones shaping our product designs. <strong>Explore the key references
+    and resources that inspire us.</strong></p>
+    <h2 id="a">A</h2>
+    <ul>
+    <li>A Unified Programming Model for Reconfigurable Heterogeneous
+    Computing Clusters</li>
+    <li>ACCL: FPGA-Accelerated Collectives over 100 Gbps TCP-IP</li>
+    <li>AMD OpenNIC Project</li>
+    <li>An FPGA Platform for Hyperscalers</li>
+    </ul>
+    <h2 id="d">D</h2>
+    <ul>
+    <li>Do OS abstractions make sense on FPGAs?</li>
+    </ul>
+    <h2 id="e">E</h2>
+    <ul>
+    <li>EasyNet: 100 Gbps Network for HLS</li>
+    <li>Enabling FPGAs in Hyperscale Data Centers</li>
+    <li>ESnet SmartNIC Hardware Design</li>
+    </ul>
+    <h2 id="h">H</h2>
+    <ul>
+    <li>Heterogeneous Accelerated Compute Cluster - ETH Zürich</li>
+    </ul>
+    <h2 id="s">S</h2>
+    <ul>
+    <li>Systems Group RunTime - ETH Zürich</li>
+    </ul>
+    <!-- Content ends -->
+
+    <script>
+        function changeColor(element) {
+            element.style.color = 'rgb(89, 101, 104)'; // Dark gray
+
+            const otherLinks = document.querySelectorAll('a:not(:hover)');
+            otherLinks.forEach(otherLink => {
+                otherLink.style.color = 'rgb(150, 150, 150)'; // Lighter gray
+            });
+        }
+
+        function resetColor() {
+            const links = document.querySelectorAll('a');
+
+            links.forEach(link => {
+                link.style.color = 'rgb(89, 101, 104)'; // Reset all links to the original color
+            });
+        }
+    </script>
+
+</body>
+</html>
