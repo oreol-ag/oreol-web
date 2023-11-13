@@ -8,7 +8,6 @@ Our mission is to drive innovation for hardware engineers, data scientists, and 
 
 ## A
 
-* [A Unified Programming Model for Reconfigurable Heterogeneous Computing Clusters](https://www.dropbox.com/scl/fi/crkcaycb4j93hk4n23knv/ZRLMPI-A-Unified-Programming-Model-for-Reconfigurable-Heterogeneous-Computing-Clusters.pdf?rlkey=11eu0fr4b3xmfpjaoo9zyhszr&dl=0)
 * [ACCL: FPGA-Accelerated Collectives over 100 Gbps TCP-IP](https://www.dropbox.com/scl/fi/xca5tbxr23aoztkcoxqag/ACCL_H2RC21_Xilinx_submitted_version.pdf?rlkey=atr0zcrl2xkvzc0wp708g05kb&dl=0)
 * [AMD OpenNIC Project](https://github.com/Xilinx/open-nic)
 * [An FPGA Platform for Hyperscalers](https://www.dropbox.com/scl/fi/0kue7ql5atkuwc73c03t0/Abel-hoti25-AnFpgaPlatformForHyperscalers.pdf?rlkey=y84aguny6zozimszqot4uuqbs&dl=0)
