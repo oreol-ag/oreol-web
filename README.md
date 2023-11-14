@@ -20,7 +20,7 @@
 * [Vocabulary](./vocabulary.md)
 
 <p align="left">
-<a href="https://www.dropbox.com/scl/fi/xvg9xfj1064mh1h15hj1d/oreol-employee-handbook.pdf?rlkey=pzptywh1hte79ypoi9tooj9zt&dl=0">Employee Handbook</a> <a href="https://www.dropbox.com/scl/fi/xvg9xfj1064mh1h15hj1d/oreol-employee-handbook.pdf?rlkey=pzptywh1hte79ypoi9tooj9zt&dl=0">Hyperion</a> <a href="https://github.com/oreol-ag/oreol-web/blob/main/research.md">Research</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">JOIN</a> <a href="mailto:hey@oreol.ch">Contact</a>
+<a href="https://www.dropbox.com/scl/fi/xvg9xfj1064mh1h15hj1d/oreol-employee-handbook.pdf?rlkey=pzptywh1hte79ypoi9tooj9zt&dl=0">Employee Handbook</a> <a href="https://oreol-ag.github.io/hyperion-web/">Hyperion</a> <a href="https://github.com/oreol-ag/oreol-web/blob/main/research.md">Research</a> <a href="https://github.com/oreol-ag/landing-page#--advanced-computing-technologies">JOIN</a> <a href="mailto:hey@oreol.ch">Contact</a> <a href="https://www.instagram.com/oreolag/">Follow</a>
 </p> 
 
 <!-- <a href="">Partners</a> -->
