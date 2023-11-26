@@ -15,8 +15,10 @@
 * [Vocabulary](./vocabulary.md)
 
 
-Employee Handbook Hyperion Research JOBS Partners Contact
+Employee Handbook Hyperion Research JOIN Contact Follow
  
+
+Partners -->
 
 
 Employee Handbook Vocabulary Mastery Path Contact Jobs  Partners Research  

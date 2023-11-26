@@ -23,4 +23,4 @@ To address these challenges, Javier developed the **Systems Group RunTime,** a u
 * **GitHub’s SGRT repository:** https://github.com/fpgasystems/sgrt
 
 ### Hyperion.
-*Oreol’s* first product, **Hyperion, is an on-premises acceleration platform that combines energy-efficient servers with advanced acceleration devices like ACAPs, FPGAs, CPUs, and GPUs.** Designed for specialized acceleration engineers in research institutions, Hyperion provides a tailored command-line interpreter (CLI) and API, packaged as Hyperion RunTime (HRT), for efficient device management and application development.
+*Oreol’s* first product, **Hyperion,** is an on-premises acceleration platform that streamlines the development of complex acceleration applications by combining modern energy-efficient multi-core servers, reconfigurable and specialized processors, and a customized RunTime. With a focus on empowering specialized hardware engineers, data scientists, and research institutions, Hyperion is specifically designed to address the demands of modern workloads and solve computing-intensive tasks.

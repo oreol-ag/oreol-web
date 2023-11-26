@@ -2,7 +2,6 @@ Our mission is to drive innovation for hardware engineers, data scientists, and 
 
 ## A
 
-* A Unified Programming Model for Reconfigurable Heterogeneous Computing Clusters
 * ACCL: FPGA-Accelerated Collectives over 100 Gbps TCP-IP
 * AMD OpenNIC Project
 * An FPGA Platform for Hyperscalers
